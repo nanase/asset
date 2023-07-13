@@ -1,0 +1,8 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["/kemov/channel.json"],
+      "url": "/schema/kemov/channel.json"
+    }
+  ]
+}

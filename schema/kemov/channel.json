@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2019-09/schema",
+  "type": "array",
+  "title": "KemoV YouTube Channel",
+  "items": {
+    "type": "object",
+    "required": [
+      "youtube_id",
+      "fullname",
+      "color"
+    ],
+    "properties": {
+      "youtube_id": {
+        "type": "string"
+      },
+      "name": {
+        "type": "string"
+      },
+      "fullname": {
+        "type": "string"
+      },
+      "globalname": {
+        "type": "string"
+      },
+      "twitter": {
+        "type": "string"
+      },
+      "twitch": {
+        "type": "string"
+      },
+      "color": {
+        "type": "object",
+        "required": [
+          "key",
+          "sub",
+          "light",
+          "back"
+        ],
+        "properties": {
+          "key": {
+            "type": "string"
+          },
+          "sub": {
+            "type": "string"
+          },
+          "light": {
+            "type": "string"
+          },
+          "back": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,6 +1,6 @@
 [
   {
-    "youtube_id": "UCEcMIuGR8WO2TwL9XIpjKtw",
+    "id": "UCEcMIuGR8WO2TwL9XIpjKtw",
     "name": "ケープペンギン",
     "fullname": "ケープペンギン / African Penguin",
     "globalname": "African Penguin",
@@ -13,7 +13,7 @@
     }
   },
   {
-    "youtube_id": "UCmYO-WfY7Tasry4D1YB4LJw",
+    "id": "UCmYO-WfY7Tasry4D1YB4LJw",
     "name": "フンボルトペンギン",
     "fullname": "フンボルトペンギン / Humboldt Penguin",
     "globalname": "Humboldt Penguin",
@@ -26,7 +26,7 @@
     }
   },
   {
-    "youtube_id": "UCMpw36mXEu3SLsqdrJxUKNA",
+    "id": "UCMpw36mXEu3SLsqdrJxUKNA",
     "name": "シマハイイロギツネ",
     "fullname": "シマハイイロギツネ / Island Fox",
     "globalname": "Island Fox",
@@ -39,7 +39,7 @@
     }
   },
   {
-    "youtube_id": "UCabMjG8p6G5xLkPJgEoTnDg",
+    "id": "UCabMjG8p6G5xLkPJgEoTnDg",
     "name": "コヨーテ",
     "fullname": "コヨーテ / Coyote",
     "globalname": "Coyote",
@@ -53,7 +53,7 @@
     }
   },
   {
-    "youtube_id": "UCdNBhcAohYjXlUVYsz8X2KQ",
+    "id": "UCdNBhcAohYjXlUVYsz8X2KQ",
     "name": "ダイアウルフ",
     "fullname": "ダイアウルフ / Dire Wolf",
     "globalname": "Dire Wolf",
@@ -67,7 +67,7 @@
     }
   },
   {
-    "youtube_id": "UCxm7yNjJsSvyvcG96-Cvmpw",
+    "id": "UCxm7yNjJsSvyvcG96-Cvmpw",
     "name": "カラカル",
     "fullname": "カラカル / Caracal",
     "globalname": "Caracal",
@@ -80,7 +80,7 @@
     }
   },
   {
-    "youtube_id": "UCNObi6xvj6QeZ0g7BhAbF7w",
+    "id": "UCNObi6xvj6QeZ0g7BhAbF7w",
     "name": "ジェネット",
     "fullname": "ジェネット / Large-spotted Genet",
     "globalname": "Large-spotted Genet",
@@ -93,7 +93,7 @@
     }
   },
   {
-    "youtube_id": "UCYa58DdXGAGMJQHqTxi-isA",
+    "id": "UCYa58DdXGAGMJQHqTxi-isA",
     "name": "ジョフロイネコ",
     "fullname": "ジョフロイネコ / Geoffroy’s Cat",
     "globalname": "Geoffroy’s Cat",
@@ -106,7 +106,7 @@
     }
   },
   {
-    "youtube_id": "UCKob71cjOlyYF5bgvtGuNKQ",
+    "id": "UCKob71cjOlyYF5bgvtGuNKQ",
     "name": "シマリス",
     "fullname": "シマリス / Siberian Chipmunk",
     "globalname": "Siberian Chipmunk",
@@ -119,7 +119,7 @@
     }
   },
   {
-    "youtube_id": "UCtJSUW-5FnwfaivXpluABWA",
+    "id": "UCtJSUW-5FnwfaivXpluABWA",
     "name": "ジャングルキャット",
     "fullname": "ジャングルキャット / Jungle Cat",
     "globalname": "Jungle Cat",
@@ -133,7 +133,7 @@
     }
   },
   {
-    "youtube_id": "UCnyE-wD1pE2GZOxA6OHjW9g",
+    "id": "UCnyE-wD1pE2GZOxA6OHjW9g",
     "name": "ウサギコウモリ",
     "fullname": "ウサギコウモリ / Brown Long-eared Bat",
     "globalname": "Brown Long-eared Bat",

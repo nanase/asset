@@ -5,12 +5,12 @@
   "items": {
     "type": "object",
     "required": [
-      "youtube_id",
+      "id",
       "fullname",
       "color"
     ],
     "properties": {
-      "youtube_id": {
+      "id": {
         "type": "string"
       },
       "name": {

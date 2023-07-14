@@ -1,7 +1,7 @@
 [
   {
     "id": "UCEcMIuGR8WO2TwL9XIpjKtw",
-    "fullname": "??????? / African Penguin",
+    "fullname": "ケープペンギン / African Penguin",
     "customUrl": "@africanpenguin6535",
     "thumbnails": {
       "default": {
@@ -29,7 +29,7 @@
   },
   {
     "id": "UCmYO-WfY7Tasry4D1YB4LJw",
-    "fullname": "????????? / Humboldt Penguin",
+    "fullname": "フンボルトペンギン / Humboldt Penguin",
     "customUrl": "@humboldtpenguin2619",
     "thumbnails": {
       "default": {
@@ -57,7 +57,7 @@
   },
   {
     "id": "UCMpw36mXEu3SLsqdrJxUKNA",
-    "fullname": "????????? / Island Fox",
+    "fullname": "シマハイイロギツネ / Island Fox",
     "customUrl": "@islandfox6864",
     "thumbnails": {
       "default": {
@@ -85,7 +85,7 @@
   },
   {
     "id": "UCabMjG8p6G5xLkPJgEoTnDg",
-    "fullname": "???? / Coyote",
+    "fullname": "コヨーテ / Coyote",
     "customUrl": "@coyote_kemov",
     "thumbnails": {
       "default": {
@@ -113,7 +113,7 @@
   },
   {
     "id": "UCdNBhcAohYjXlUVYsz8X2KQ",
-    "fullname": "?????? / Dire Wolf",
+    "fullname": "ダイアウルフ / Dire Wolf",
     "customUrl": "@direwolf8958",
     "thumbnails": {
       "default": {
@@ -141,7 +141,7 @@
   },
   {
     "id": "UCxm7yNjJsSvyvcG96-Cvmpw",
-    "fullname": "???? / Caracal",
+    "fullname": "カラカル / Caracal",
     "customUrl": "@caracal4893",
     "thumbnails": {
       "default": {
@@ -169,7 +169,7 @@
   },
   {
     "id": "UCNObi6xvj6QeZ0g7BhAbF7w",
-    "fullname": "????? / Large-spotted Genet",
+    "fullname": "ジェネット / Large-spotted Genet",
     "customUrl": "@large-spottedgenet4617",
     "thumbnails": {
       "default": {
@@ -197,7 +197,7 @@
   },
   {
     "id": "UCYa58DdXGAGMJQHqTxi-isA",
-    "fullname": "??????? / Geoffroy?s Cat",
+    "fullname": "ジョフロイネコ / Geoffroy’s Cat",
     "customUrl": "@geoffroyscat4196",
     "thumbnails": {
       "default": {
@@ -225,7 +225,7 @@
   },
   {
     "id": "UCKob71cjOlyYF5bgvtGuNKQ",
-    "fullname": "???? / Siberian Chipmunk",
+    "fullname": "シマリス / Siberian Chipmunk",
     "customUrl": "@siberianchipmunk5236",
     "thumbnails": {
       "default": {
@@ -253,7 +253,7 @@
   },
   {
     "id": "UCtJSUW-5FnwfaivXpluABWA",
-    "fullname": "????????? / Jungle Cat",
+    "fullname": "ジャングルキャット / Jungle Cat",
     "customUrl": "@junglecat3723",
     "thumbnails": {
       "default": {
@@ -281,7 +281,7 @@
   },
   {
     "id": "UCnyE-wD1pE2GZOxA6OHjW9g",
-    "fullname": "??????? / Brown Long-eared Bat",
+    "fullname": "ウサギコウモリ / Brown Long-eared Bat",
     "customUrl": "@brownlong-earedbat7015",
     "thumbnails": {
       "default": {
@@ -303,7 +303,7 @@
     "statistics": {
       "hiddenSubscriberCount": false,
       "videoCount": "296",
-      "viewCount": "454794",
+      "viewCount": "456405",
       "subscriberCount": "4370"
     }
   }

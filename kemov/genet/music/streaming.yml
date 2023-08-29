@@ -17,6 +17,17 @@
       references:
         - link: https://imslp.org/wiki/Symphony_No.9%2C_Op.125_%28Beethoven%2C_Ludwig_van%29
           title: 'Symphony No.9, Op.125 (Beethoven, Ludwig van)'
+    - title: '[アメイジング・グレイス](wiki:アメイジング・グレイス)'
+      originalTitle: 'Amazing Grace'
+      attributes:
+        - name: 作曲
+          text: '不明'
+        - name: 作詞
+          text: '[ジョン・ニュートン](wiki:ジョン・ニュートン)'
+      description: '[ヴァイオリン演奏](yt:NhTMyq1gLb0?t=1452)として'
+      references:
+        - link: https://imslp.org/wiki/Amazing_Grace_(Anonymous)
+          title: 'Amazing Grace (Anonymous)'
 
 - video:
     id: TKqtotAHf5M

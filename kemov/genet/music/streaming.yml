@@ -1,4 +1,24 @@
 - video:
+    id: NhTMyq1gLb0
+    type: live
+    publishedAt: 2023/08/29 12:00
+  name: '【雑談】ジェネットの友達探し！～初見さん探しの旅～＃13'
+  shortname: 'ジェネットの友達探し！～初見さん探しの旅～＃13'
+  categories: ['雑談配信', 'ジェネットの友達探し']
+  tunes:
+    - title: '[交響曲第9番「合唱付き」](wiki:交響曲第9番_(ベートーヴェン)) 第4楽章「[歓喜の歌](wiki:歓喜の歌)」'
+      originalTitle: 'Sinfonie Nr. 9 D-moll, op. 125, An die Freude / Ode to Joy'
+      attributes:
+        - name: 作曲
+          text: '[ルードヴィッヒ・ヴァン・ベートーヴェン](wiki:ルートヴィヒ・ヴァン・ベートーヴェン)'
+        - name: 原詩
+          text: '[フリードリヒ・フォン・シラー](wiki:フリードリヒ・フォン・シラー)'
+      description: 'BGMとして、[ヴァイオリン演奏](yt:NhTMyq1gLb0?t=429)として'
+      references:
+        - link: https://imslp.org/wiki/Symphony_No.9%2C_Op.125_%28Beethoven%2C_Ludwig_van%29
+          title: 'Symphony No.9, Op.125 (Beethoven, Ludwig van)'
+
+- video:
     id: TKqtotAHf5M
     type: live
     publishedAt: 2023/08/22 12:00

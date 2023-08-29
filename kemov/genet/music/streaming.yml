@@ -28,6 +28,19 @@
       references:
         - link: https://imslp.org/wiki/Amazing_Grace_(Anonymous)
           title: 'Amazing Grace (Anonymous)'
+    - title: |-
+        ヴァイオリン協奏曲集「[和声と創意の試み](wiki:和声と創意の試み)」作品8より "[四季](wiki:四季_(ヴィヴァルディ))"
+        協奏曲第1番ホ長調 RV 269「[春](wiki:四季_(ヴィヴァルディ)#協奏曲第1番ホ長調_RV_269「春」（La_Primavera）)」
+      originalTitle: "Il cimento dell'armonia e dell'inventione, Concerto Nº 1 in Mi maggiore, opera 8, RV 269, \"La Primavera\""
+      attributes:
+        - name: 作曲
+          text: '[アントニオ・ヴィヴァルディ](wiki:アントニオ・ヴィヴァルディ)'
+      description: '[ヴァイオリン演奏](yt:NhTMyq1gLb0?t=2560)として'
+      references:
+        - link: https://imslp.org/wiki/Il_cimento_dell%27armonia_e_dell%27inventione,_Op.8_(Vivaldi,_Antonio)
+          title: "Il cimento dell'armonia e dell'inventione, Op.8 (Vivaldi, Antonio)"
+        - link: https://imslp.org/wiki/Violin_Concerto_in_E_major,_RV_269_(Vivaldi,_Antonio)
+          title: "Violin Concerto in E major, RV 269 (Vivaldi, Antonio)"
 
 - video:
     id: TKqtotAHf5M

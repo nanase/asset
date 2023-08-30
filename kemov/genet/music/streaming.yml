@@ -17,6 +17,10 @@
       references:
         - link: https://imslp.org/wiki/Symphony_No.9%2C_Op.125_%28Beethoven%2C_Ludwig_van%29
           title: 'Symphony No.9, Op.125 (Beethoven, Ludwig van)'
+      videos:
+        - id: hdWyYn0E4Ys
+          position: 771
+          title: 'Beethoven 9th Symphony - Movement IV - "Ode to Joy"'
     - title: '[アメイジング・グレイス](wiki:アメイジング・グレイス)'
       originalTitle: 'Amazing Grace'
       attributes:
@@ -28,6 +32,9 @@
       references:
         - link: https://imslp.org/wiki/Amazing_Grace_(Anonymous)
           title: 'Amazing Grace (Anonymous)'
+      videos:
+        - id: HsCp5LG_zNE
+          title: 'Celtic Woman - Amazing Grace'
     - title: |-
         ヴァイオリン協奏曲集「[和声と創意の試み](wiki:和声と創意の試み)」作品8より "[四季](wiki:四季_(ヴィヴァルディ))"
         協奏曲第1番ホ長調 RV 269「[春](wiki:四季_(ヴィヴァルディ)#協奏曲第1番ホ長調_RV_269「春」（La_Primavera）)」
@@ -41,6 +48,9 @@
           title: "Il cimento dell'armonia e dell'inventione, Op.8 (Vivaldi, Antonio)"
         - link: https://imslp.org/wiki/Violin_Concerto_in_E_major,_RV_269_(Vivaldi,_Antonio)
           title: "Violin Concerto in E major, RV 269 (Vivaldi, Antonio)"
+      videos:
+        - id: WKqo2WcdlPM
+          title: 'Vivaldi - Spring La primavera Violin Concerto Op.8, RV269 from Four Seasons'
 
 - video:
     id: TKqtotAHf5M
@@ -59,6 +69,9 @@
         - link: https://imslp.org/wiki/Canon_and_Gigue_in_D_major,_P.37_(Pachelbel,_Johann)
           title: 'Canon and Gigue in D major, P.37 (Pachelbel, Johann)'
       description: '[ヴァイオリン演奏](yt:TKqtotAHf5M?t=314)として'
+      videos:
+        - id: Jq9-p6Qf_XQ
+          title: 'Pachelbel Canon - Stringspace Solo Violin'
     - title: '[愛の挨拶](wiki:愛の挨拶) 作品12'
       originalTitle: "Salut d'amour, Op.12"
       attributes:
@@ -68,6 +81,10 @@
         - link: https://imslp.org/wiki/Salut_d%27Amour,_Op.12_(Elgar,_Edward)
           title: "Salut d'amour, Op.12 (Elgar, Edward)"
       description: '[ヴァイオリン演奏](yt:TKqtotAHf5M?t=400)として'
+      videos:
+        - id: lEH-rN2RE1w
+          position: 26
+          title: Flashmob Schönbrunn Palace - Edward Elgar's "Salut d'amour" - Esther Abrami & OJPA
 
 - video:
     id: 87eE9y0QsHs
@@ -328,6 +345,9 @@
         - link: https://imslp.org/wiki/Auld_lang_syne_(Folk_Songs%2C_Scottish)
           title: 'Auld lang syne (Folk Songs, Scottish)'
       description: '[ヴァイオリン演奏](yt:oQqCH95h8FQ?t=2590)として'
+      videos:
+        - id: IALSCIyUPXI
+          title: 'Auld Lang Syne (Instrumental Violin and Bagpipes) + Free Sheet Music'
     - title: '[愛の悲しみ](wiki:愛の悲しみ)'
       originalTitle: 'Alt-Wiener Tanzweisen, II. Liebesleid'
       attributes:
@@ -337,6 +357,9 @@
         - link: https://imslp.org/wiki/3_Old_Viennese_Dances_(Kreisler,_Fritz)
           title: '3 Old Viennese Dances (Kreisler, Fritz)'
       description: '[ヴァイオリン演奏](yt:oQqCH95h8FQ?t=3215)として'
+      videos:
+        - id: SQEfDZPeJOw
+          title: 'Kreisler : Liebesleid (Marina Chiche / Aurélien Pontier)'
     - title: '[愛の喜び](wiki:愛の喜び_(クライスラー))'
       originalTitle: 'Alt-Wiener Tanzweisen, I. Liebesfreud'
       attributes:
@@ -346,6 +369,10 @@
         - link: https://imslp.org/wiki/3_Old_Viennese_Dances_(Kreisler,_Fritz)
           title: '3 Old Viennese Dances (Kreisler, Fritz)'
       description: '[ヴァイオリン演奏](yt:oQqCH95h8FQ?t=3320)として'
+      videos:
+        - id: -QQOc2NGe-0
+          position: 260
+          title: 'Shlomo Mintz plays Kreisler "Liebesleid und Liebesfreud"'
     - title: 'オペラ「[タイス](wiki:タイス_(オペラ))」より「[タイスの瞑想曲](wiki:タイスの瞑想曲)」'
       originalTitle: 'Thaïs, Méditation'
       attributes:
@@ -355,6 +382,9 @@
         - link: https://imslp.org/wiki/Tha%C3%AFs_(Massenet,_Jules)
           title: 'Thaïs (Massenet, Jules)'
       description: '[ヴァイオリン演奏](yt:oQqCH95h8FQ?t=3400)として'
+      videos:
+        - id: 7QtGOWemQhY
+          title: 'Jules Massenet - Meditation from Thais for Violin and Piano'
     - title: '[ラプソディ・イン・ブルー](wiki:ラプソディ・イン・ブルー)'
       originalTitle: 'Rhapsody in Blue'
       attributes:
@@ -364,6 +394,9 @@
         - link: https://imslp.org/wiki/Rhapsody_in_Blue_(Gershwin,_George)
           title: 'Rhapsody in Blue (Gershwin, George)'
       description: '[ヴァイオリン演奏](yt:oQqCH95h8FQ?t=3566)として'
+      videos:
+        - id: TDZWLP7TgBM
+          title: 'Rhapsody in Blue (Live at Suntory Hall)'
     - title: '[アイ・ガット・リズム](wiki:アイ・ガット・リズム)'
       originalTitle: 'I Got Rhythm'
       attributes:
@@ -375,6 +408,9 @@
         - link: https://imslp.org/wiki/Variations_on_'I_Got_Rhythm'_(Gershwin%2C_George)
           title: "Variations on 'I Got Rhythm' (Gershwin, George)"
       description: '[ヴァイオリン演奏](yt:oQqCH95h8FQ?t=3654)として'
+      videos:
+        - id: tVosDu8MGUA
+          title: 'Grigory Gruzman plays G. Gershwin I got rhythm'
 
 - video:
     id: yJk5KBRu0PY
@@ -392,6 +428,9 @@
         - link: https://imslp.org/wiki/Piano_Sonata_No.8,_Op.13_(Beethoven,_Ludwig_van)
           title: 'Piano Sonata No.8, Op.13 (Beethoven, Ludwig van)'
       description: '[ヴァイオリン演奏](yt:yJk5KBRu0PY?t=10396)として'
+      videos:
+        - id: BuN3yCmHb_U
+          title: 'Yundi - Beethoven, Adagio Cantabile (from Sonata Pathétique No. 8, op. 13)'
     - title: '[オールド・ラング・サイン](wiki:オールド・ラング・サイン)（[蛍の光](wiki:蛍の光)）'
       originalTitle: 'Auld Lang Syne'
       attributes:
@@ -405,6 +444,9 @@
         - link: https://imslp.org/wiki/Auld_lang_syne_(Folk_Songs%2C_Scottish)
           title: 'Auld lang syne (Folk Songs, Scottish)'
       description: '[ヴァイオリン演奏](yt:yJk5KBRu0PY?t=10542)として'
+      videos:
+        - id: psIKJlSiuxo
+          title: 'Auld Lang Syne Bagpipes - The Snake Charmer'
 
 - video:
     id: oOHoIHvZfQQ
@@ -423,6 +465,9 @@
         - link: https://imslp.org/wiki/Canon_and_Gigue_in_D_major,_P.37_(Pachelbel,_Johann)
           title: 'Canon and Gigue in D major, P.37 (Pachelbel, Johann)'
       description: '[ヴァイオリン演奏](yt:oOHoIHvZfQQ?t=2949)として'
+      videos:
+        - id: RBx-Ue28KUE
+          title: 'Canon in D (Pachelbel) - Violin & Piano'
 
 - video:
     id: sarqYacnl2Y
@@ -499,6 +544,10 @@
         - link: https://imslp.org/wiki/The_Planets:_Suite_for_Large_Orchestra_(Holst,_Gustav)
           title: 'The Planets, Op.32 (Holst, Gustav)'
       description: 'BGMとして'
+      videos:
+        - id: l9RRywZMmoY
+          title: |-
+            HOLST The Planets: 4. Jupiter, the Bringer of Jollity - "The President's Own" U.S. Marine Band
     - title: '[交響曲第25番](wiki:交響曲第25番_(モーツァルト)) ト短調 K.183/173dB, 第1楽章 アレグロ・コン・ブリオ'
       originalTitle: 'Symphony No.25 in G minor, K.183/173dB, I. Allegro con brio'
       attributes:
@@ -557,6 +606,10 @@
       references:
         - link: https://imslp.org/wiki/Herz_und_Mund_und_Tat_und_Leben,_BWV_147_(Bach,_Johann_Sebastian)
           title: 'Herz und Mund und Tat und Leben, BWV 147 (Bach, Johann Sebastian)'
+      videos:
+        - id: GWtoeYznx8E
+          position: 8
+          title: 'Bach - Jesus bleibet meine Freude from Cantata BWV 147 | Netherlands Bach Society'
 
 - video:
     id: zqkctiEhIW0
@@ -575,6 +628,9 @@
         - link: https://imslp.org/wiki/Violin_Sonata_No.1,_Op.78_(Brahms,_Johannes)
           title: 'Violin Sonata No.1, Op.78 (Brahms, Johannes)'
       description: BGMとして、[ヴァイオリン演奏](yt:zqkctiEhIW0?t=3380)として
+      videos:
+        - id: iCcWIImWxPg
+          title: 'Johanes Brahms/Sonate für Klavier und Violine Nr. 1 G-Dur op. 78 1.Satz Vivace ma non troppo'
   keywords:
     - ロベルト・シューマン
     - ソナタ
@@ -606,6 +662,10 @@
       references:
         - link: https://imslp.org/wiki/Samson_et_Dalila,_Op.47_(Saint-Sa%C3%ABns,_Camille)
           title: 'Samson et Dalila, Op.47 (Saint-Saëns, Camille)'
+      videos:
+        - id: X67Cguz5J0s
+          position: 5
+          title: 'Saint-Saëns: Samson et Dalila: Bacchanale - Radio Filharmonisch Orkest - Live concert HD'
   keywords:
     - 栗
     - 黒檀
@@ -634,6 +694,9 @@
       references:
         - link: https://imslp.org/wiki/Nocturnes,_Op.9_(Chopin,_Fr%C3%A9d%C3%A9ric)
           title: 'Nocturnes, Op.9 (Chopin, Frédéric)'
+      videos:
+        - id: zbt14VnYmnI
+          title: 'Bomsori & Rafał Blechacz – Chopin/Sarasate: Nocturne in E-flat major Op. 9 No. 2'
   keywords: ['性格的小品', 'ジョン・フィールド', 'ポーランド', 'ポーランド立憲革命', 'ノクターン20番']
 
 - video:
@@ -645,7 +708,7 @@
   categories: ['練習配信']
   tunes:
     - title: '[大学祝典序曲](wiki:大学祝典序曲)'
-      originalTitle: 'Akademische Festouvertüre'
+      originalTitle: 'Akademische Festouvertüre, Op.80'
       attributes:
         - name: 作曲
           text: '[ヨハネス・ブラームス](wiki:ヨハネス・ブラームス)'
@@ -653,6 +716,9 @@
         - link: https://imslp.org/wiki/Academic_Festival_Overture,_Op.80_(Brahms,_Johannes)
           title: 'Academic Festival Overture, Op.80 (Brahms, Johannes)'
       description: 練習曲として、BGMとして
+      videos:
+        - id: AgJhsa-wLNU
+          title: 'Symphonic Gems: Brahms - Academic Festival Overture - Blomstedt | Concertgebouworkest'
 
 - video:
     id: FnY8s9MuzNI
@@ -667,11 +733,14 @@
       attributes:
         - name: 作曲
           text: '[バルトーク・ベーラ](wiki:バルトーク・ベーラ)'
-      videos:
       references:
         - link: https://imslp.org/wiki/Romanian_Folk_Dances,_Sz.56_(Bart%C3%B3k,_B%C3%A9la)
           title: 'Romanian Folk Dances, Sz.56 (Bartók, Béla)'
       description: 'BGMとして（第1曲 棒踊り）、[ヴァイオリン演奏](yt:FnY8s9MuzNI?t=3860)として'
+      videos:
+        - id: Z50Ooqv1GFg
+          position: 5
+          title: 'Béla Bartók - Romanian Folk Dances for String Orchestra Sz.56 BB 68'
 
 - video:
     id: zHH2FlLgyhs
@@ -690,8 +759,14 @@
         - link: https://imslp.org/wiki/Le_nozze_di_Figaro,_K.492_(Mozart,_Wolfgang_Amadeus)
           title: 'Le nozze di Figaro, K.492 (Mozart, Wolfgang Amadeus)'
       description: |-
-        OPのBGM（序曲）として、BGM（第2幕 恋とはどんなものかしら）として、
+        OPのBGM（序曲）として、BGM（第2幕 [恋とはどんなものかしら](wiki:恋とはどんなものか)）として、
         ヴァイオリン演奏（[序曲](yt:zHH2FlLgyhs?t=4290)、[恋とはどんなものかしら](yt:zHH2FlLgyhs?t=4400)）として
+      videos:
+        - id: k5OramqHPEs
+          title: 'W. A. Mozart: The Marriage of Figaro Overture K. 492'
+        - id: qT_Q4n-Zp-8
+          position: 5
+          title: 'Camille Thomas – Mozart: Figaro, Act 2: Voi Che Sapete (Live at Sainte-Chapelle, Paris / 2018)'
 
 - video:
     id: P-qHO3h3GCg
@@ -710,6 +785,10 @@
         - link: https://imslp.org/wiki/La_forza_del_destino_(Verdi,_Giuseppe)
           title: 'La forza del destino (Verdi, Giuseppe)'
       description: BGMとして
+      videos:
+      - id: GxBkZxrW1O0
+        position: 3
+        title: 'Verdi: Die Macht des Schicksals – Ouvertüre ∙ hr-Sinfonieorchester ∙ Alain Altinoglu'
     - title: '[エグモント](wiki:エグモント_(劇音楽)#曲の構成) 作品84'
       originalTitle: 'Egmont, Op.84'
       attributes:
@@ -719,6 +798,10 @@
         - link: https://imslp.org/wiki/Egmont,_Op.84_(Beethoven,_Ludwig_van)
           title: 'Egmont, Op.84 (Beethoven, Ludwig van)'
       description: BGMとして
+      videos:
+      - id: URZWpeha9lA
+        position: 25
+        title: 'Beethoven: Egmont – Schauspielmusik (Ouvertüre & Nr. 2, 6, 7, 9) ∙ hr-Sinfonieorchester ∙ Koopman'
     - title: '[大学祝典序曲](wiki:大学祝典序曲) ハ短調 作品80'
       originalTitle: 'Akademische Festouvertüre, Op.80'
       attributes:
@@ -728,6 +811,10 @@
         - link: https://imslp.org/wiki/Academic_Festival_Overture,_Op.80_(Brahms,_Johannes)
           title: 'Academic Festival Overture, Op.80 (Brahms, Johannes)'
       description: BGMとして
+      videos:
+        - id: _1ci4NOl1PY
+          position: 33
+          title: 'ブラームス：大学祝典序曲ハ短調 作品80　Brahms：Academic Festival Overture, Op.80'
     - title: '[セビリアの理髪師](wiki:セビリアの理髪師#曲目)'
       originalTitle: 'Il Barbiere di Siviglia'
       attributes:
@@ -737,6 +824,9 @@
         - link: https://imslp.org/wiki/Il_barbiere_di_Siviglia_(Rossini,_Gioacchino)
           title: 'Il barbiere di Siviglia (Rossini, Gioacchino)'
       description: BGMとして
+      videos:
+        - id: 2MwrkhEe1K0
+          title: 'Rossini, Il barbiere di Siviglia (Ouverture)'
     - title: '[フィガロの結婚](wiki:フィガロの結婚)'
       originalTitle: 'Le nozze di Figaro, K.492'
       attributes:
@@ -747,6 +837,10 @@
           title: 'Le nozze di Figaro, K.492 (Mozart, Wolfgang Amadeus)'
       description: |-
         OPのBGMとして、BGMとして
+      videos:
+        - id: 3BeXD_h0yTQ
+          position: 4
+          title: 'LONDON MOZART PLAYERS: Mozart – Overture to Le nozze di Figaro K492'
 
 - video:
     id: l9JKjVlYIUY
@@ -765,12 +859,19 @@
         - link: https://imslp.org/wiki/The_Stars_and_Stripes_Forever_(Sousa,_John_Philip)
           title: 'The Stars and Stripes Forever (Sousa, John Philip)'
       description: BGMとして
+      videos:
+        - id: a-7XWhyvIpE
+          position: 59
+          title: SOUSA The Stars and Stripes Forever - "The President's Own" U.S. Marine Band
     - title: '[クシコス・ポスト](wiki:クシコス・ポスト)'
       originalTitle: 'Csikos Post'
       attributes:
         - name: 作曲
           text: '[ヘルマン・ネッケ](wiki:ヘルマン・ネッケ)'
       description: 'BGMとして、[ヴァイオリン演奏](yt:l9JKjVlYIUY?t=1670)として'
+      videos:
+        - id: cpBnB_YAxv4
+          title: 'クシコス・ポスト（ネッケ）Csikos Post (Necke)'
     - title: '[天国と地獄](wiki:地獄のオルフェ) 序曲第3部 カンカン'
       originalTitle: 'Le Galop infernal (Can-Can) d’Orphée aux Enfers'
       attributes:
@@ -780,6 +881,9 @@
         - link: https://imslp.org/wiki/Orph%C3%A9e_aux_enfers_(Offenbach,_Jacques)
           title: 'Orphée aux enfers (Offenbach, Jacques)'
       description: 'BGMとして、[ヴァイオリン演奏](yt:l9JKjVlYIUY?t=2260)として'
+      videos:
+        - id: sf9CtbLGzgw
+          title: 'Can Can from Orpheus in the Underworld: Gimnazija Kranj Symphony Orchestra (stunning performance!)'
     - title: '[ウィリアム・テル序曲](wiki:ウィリアム・テル序曲)'
       originalTitle: 'Ouverture de Guillaume Tell'
       attributes:
@@ -789,6 +893,9 @@
         - link: https://imslp.org/wiki/Guillaume_Tell_(Rossini,_Gioacchino)
           title: 'Guillaume Tell (Rossini, Gioacchino)'
       description: BGMとして
+      videos:
+        - id: tJoDL1cSRjM
+          title: 'Rossini: "Guillaume Tell" Overture / Abbado · Berliner Philharmoniker'
     - title: '[見よ、勇者は帰る](wiki:ユダス・マカベウス)'
       originalTitle: "See, the Conqu'ring Hero Comes from Judas Maccabaeus HWV63"
       attributes:
@@ -798,6 +905,9 @@
         - link: https://imslp.org/wiki/Judas_Maccabaeus,_HWV_63_(Handel,_George_Frideric)
           title: 'Judas Maccabaeus, HWV 63 (Handel, George Frideric)'
       description: 'BGMとして、[ヴァイオリン演奏](yt:l9JKjVlYIUY?t=3576)として'
+      videos:
+        - id: 8p1BedwyFKY
+          title: "SEE, THE CONQU'RING HERO COMES!. G. F. Haendel."
 
 - video:
     id: QY4AJMj68Eg
@@ -837,6 +947,9 @@
         - link: https://imslp.org/wiki/Radetzky_March,_Op.228_(Strauss_Sr.,_Johann)
           title: 'Radetzky-Marsch, Op.228 (Strauss Sr., Johann)'
       description: OPのBGMとして
+      videos:
+        - id: xToFOzD0M8E
+          title: 'André Rieu - Radetzky March'
     - title: '[ピツィカート・ポルカ](wiki:ピツィカート・ポルカ)'
       originalTitle: 'Pizzicato Polka'
       attributes:
@@ -846,6 +959,9 @@
         - link: https://imslp.org/wiki/Pizzicato_Polka_(Strauss_Jr.,_Johann)
           title: 'Pizzicato-Polka (Strauss Jr., Johann)'
       description: BGMとして
+      videos:
+        - id: yhv7irP2b3E
+          title: 'Pizzicato Polka live at the Royal Albert Hall (BBC Proms 2020)'
 
 - video:
     id: k0RmlSuzZhI
@@ -864,6 +980,10 @@
         - link: https://imslp.org/wiki/An_der_sch%C3%B6nen_blauen_Donau,_Op.314_(Strauss_Jr.,_Johann)
           title: 'An der schönen blauen Donau, Op.314 (Strauss Jr., Johann)'
       description: 'BGMとして、[ヴァイオリン演奏](yt:k0RmlSuzZhI?t=3610)として'
+      videos:
+        - id: vtWQ1fDjaRc
+          position: 28
+          title: 'The Blue Danube by Johann Strauss II - An der schönen blauen Donau Waltz, Op. 314'
 
 - video:
     id: u1kBlhriALE
@@ -886,6 +1006,10 @@
           title: "Il cimento dell'armonia e dell'inventione, Op.8 (Vivaldi, Antonio)"
         - link: https://imslp.org/wiki/Violin_Concerto_in_E_major,_RV_269_(Vivaldi,_Antonio)
           title: "Violin Concerto in E major, RV 269 (Vivaldi, Antonio)"
+      videos:
+        - id: -AJ5L4pneSo
+          position: 6
+          title: 'A. Vivaldi: “Primavera” - Emmanuele Baldini & Osesp'
     - title: 花の歌 作品39
       originalTitle: 'Blumenlied Op.39'
       attributes:
@@ -895,6 +1019,10 @@
       references:
         - link: https://imslp.org/wiki/Blumenlied,_Op.39_(Lange,_Gustav)
           title: "Blumenlied, Op.39 (Lange, Gustav)"
+      videos:
+        - id: lxVy8vs8f90
+          position: 5
+          title: 'Blumenlied, Op. 39 (Flower Song) by Gustav Lange | Cory Hall, pianist-composer'
     - title: エーデルワイス 作品31
       originalTitle: 'Edelweiß Op.31'
       attributes:
@@ -904,6 +1032,10 @@
       references:
         - link: https://imslp.org/wiki/Edelweiss,_Op.31_(Lange,_Gustav)
           title: "Edelweiss, Op.31 (Lange, Gustav)"
+      videos:
+        - id: swDBoJJuJQc
+          position: 9
+          title: 'Gustav Lange: Edelweiss (Pure as Snow), Op. 31'
     - title: '[エーデルワイス](wiki:エーデルワイス_(1959年の曲))'
       originalTitle: 'Edelweiss'
       attributes:
@@ -912,6 +1044,9 @@
         - name: 作詞
           text: '[オスカー・ハマースタイン2世](wiki:オスカー・ハマースタイン2世)'
       description: '[ヴァイオリン演奏](yt:u1kBlhriALE?t=1400)として'
+      videos:
+        - id: 8bL2BCiFkTk
+          title: 'Edelweiss from The Sound of Music'
     - title: '[春の歌](wiki:無言歌集_(メンデルスゾーン)#第5巻_作品62)'
       originalTitle: 'Lieder ohne Worte, Frühlingslied Op.62-6'
       attributes:
@@ -921,6 +1056,10 @@
       references:
         - link: https://imslp.org/wiki/Lieder_ohne_Worte%2C_Op.62_(Mendelssohn%2C_Felix)
           title: "Lieder ohne Worte, Op.62 (Mendelssohn, Felix)"
+      videos:
+        - id: ERMdoDvhxF8
+          position: 5
+          title: 'Andreas Ottensamer & Julien Quentin – Mendelssohn: Lieder ohne Worte, Op. 62/6 (Arr. Ottensamer)'
     - title: '[春の声](wiki:春の声) 作品410'
       originalTitle: 'Frühlingsstimmen, Op.410'
       attributes:
@@ -930,6 +1069,10 @@
       references:
         - link: https://imslp.org/wiki/Fr%C3%BChlingsstimmen%2C_Op.410_(Strauss_Jr.%2C_Johann)
           title: "Frühlingsstimmen, Op.410 (Strauss Jr., Johann)"
+      videos:
+        - id: ewXcgHvUElc
+          position: 18
+          title: 'Johann Strauss II – Frühlingsstimmen Waltz, Op. 410 Voices of Spring Żebrowski Music School Orch.'
     - title: '[ヴァイオリンソナタ第5番「春」](wiki:ヴァイオリンソナタ第5番_(ベートーヴェン)) ヘ長調 作品24'
       originalTitle: 'Violin Sonata No.5, Op.24'
       attributes:
@@ -939,6 +1082,9 @@
       references:
         - link: https://imslp.org/wiki/Violin_Sonata_No.5,_Op.24_(Beethoven,_Ludwig_van)
           title: Violin Sonata No.5, Op.24 (Beethoven, Ludwig van)
+      videos:
+        - id: zOFCltUxuRc
+          title: Beethoven's "Spring Sonata" Op.24
     - title: '[春の祭典](wiki:春の祭典)'
       originalTitle: 'Le Sacre du printemps, K015'
       attributes:
@@ -948,6 +1094,10 @@
       references:
         - link: https://imslp.org/wiki/The_Rite_of_Spring,_K015_(Stravinsky,_Igor)
           title: The Rite of Spring, K015 (Stravinsky, Igor)
+      videos:
+        - id: YOZmlYgYzG4
+          position: 265
+          title: 'Le Sacre du printemps / The Rite of Spring - Ballets Russes'
 
 - video:
     id: nT1dIvnFsPk
@@ -979,7 +1129,12 @@
       references:
         - link: https://imslp.org/wiki/Symphony_No.9,_Op.95_(Dvo%C5%99%C3%A1k,_Anton%C3%ADn)
           title: 'Symphony No.9, Op.95 (Dvořák, Antonín)'
-      description: ヴァイオリン演奏（第2楽章、第4楽章）として
+      description: ヴァイオリン演奏（[第2楽章](yt:v4Sr4Fzpwc8?t=3641)、[第4楽章](yt:v4Sr4Fzpwc8?t=4282)）として
+      videos:
+        - id:  Yj06uN0Xov8
+          title: 'Dvořák: Symphony No. 9 “From the New World” / A. Fischer · Berliner Philharmoniker'
+        - id:  S5sB4B2lCaQ
+          title: 'Dvořák: Symphony No. 9 "From the New World" / Abbado · Berliner Philharmoniker'
 
 - video:
     id: H6mK6fMNSU0
@@ -999,6 +1154,10 @@
         - link: https://imslp.org/wiki/Symphony_No.9%2C_Op.125_%28Beethoven%2C_Ludwig_van%29
           title: 'Symphony No.9, Op.125 (Beethoven, Ludwig van)'
       description: BGMとして、[ヴァイオリン演奏](yt:H6mK6fMNSU0?t=4540)として
+      videos:
+        - id:  wvIexq1rXr4
+          position: 3140
+          title: 'Ludwig van Beethoven - Sinfonie Nr. 9 d-Moll op. 125 "An die Freude" | WDR Sinfonieorchester'
 
 - video:
     id: UVWC7k2R2HY
@@ -1016,6 +1175,10 @@
         - link: https://imslp.org/wiki/Requiem_(Verdi,_Giuseppe)
           title: 'Requiem (Verdi, Giuseppe)'
       description: 解説として
+      videos:
+        - id:  Nlq9lJRElBk
+          position: 572
+          title: 'Verdi: Messa da Requiem ∙ hr-Sinfonieorchester ∙ MDR Rundfunkchor ∙ Solisten ∙ Andrés Orozco-Estrada'
     - title: '[3つのヴァイオリンと通奏低音のためのカノンとジーグ ニ長調](wiki:カノン_(パッヘルベル)) より「[カノン](wiki:カノン_(パッヘルベル)#カノン)」'
       originalTitle: 'Kanon und Gigue für drei Violinen und Basso Continuo, P.37, No.1 Kanon'
       attributes:
@@ -1025,6 +1188,9 @@
         - link: https://imslp.org/wiki/Canon_and_Gigue_in_D_major,_P.37_(Pachelbel,_Johann)
           title: 'Canon and Gigue in D major, P.37 (Pachelbel, Johann)'
       description: 解説として
+      videos:
+        - id:  Pppexz-KKig
+          title: 'Pachelbel - Canon in d'
     - title: '[G線上のアリア](wiki:G線上のアリア)'
       originalTitle: 'Air auf der G-Saite'
       attributes:
@@ -1035,16 +1201,23 @@
       references:
         - link: https://imslp.org/wiki/Orchestral_Suite_No.3_in_D_major,_BWV_1068_(Bach,_Johann_Sebastian)#For_Violin.2C_Piano_and_Strings_.28Wilhelmj.29
           title: 'Orchestral Suite No.3 in D major, BWV 1068 (Bach, Johann Sebastian)'
-      description: 解説として
+      description: '解説として、[ヴァイオリン演奏](yt:UVWC7k2R2HY?t=2626)として'
+      videos:
+        - id:  CLk8OILr72U
+          title: 'Air On The G String, J. S. Bach - Anastasiya Petryshak'
     - title: 'コラール「[主よ、人の望みの喜びよ](wiki:主よ、人の望みの喜びよ)」'
       originalTitle: 'Herz und Mund und Tat und Leben, BWV 147'
       attributes:
         - name: 作曲
           text: '[ヨハン・ゼバスティアン・バッハ](wiki:ヨハン・ゼバスティアン・バッハ)'
-      description: 解説として
+      description: '解説として、[ヴァイオリン演奏](yt:UVWC7k2R2HY?t=3214)として'
       references:
         - link: https://imslp.org/wiki/Herz_und_Mund_und_Tat_und_Leben,_BWV_147_(Bach,_Johann_Sebastian)
           title: 'Herz und Mund und Tat und Leben, BWV 147 (Bach, Johann Sebastian)'
+      videos:
+        - id:  h97JE4--p84
+          position: 966
+          title: 'Bach - Cantata Herz und Mund und Tat und Leben BWV 147 - Creed | Netherlands Bach Society'
     - title: |-
         [無伴奏ヴァイオリンのためのソナタとパルティータ](wiki:無伴奏ヴァイオリンのためのソナタとパルティータ)
         [第3番 ホ長調 BWV1006](wiki:無伴奏ヴァイオリンのためのソナタとパルティータ#パルティータ第3番ホ長調_BWV1006) 第3番 ガボット
@@ -1052,12 +1225,15 @@
       attributes:
         - name: 作曲
           text: '[ヨハン・ゼバスティアン・バッハ](wiki:ヨハン・ゼバスティアン・バッハ)'
-      description: 解説として、ヴァイオリン演奏として
+      description: '解説として、[ヴァイオリン演奏](yt:UVWC7k2R2HY?t=3607)として'
       references:
         - link: https://imslp.org/wiki/6_Violin_Sonatas_and_Partitas,_BWV_1001-1006_(Bach,_Johann_Sebastian)
           title: '6 Violin Sonatas and Partitas, BWV 1001-1006 (Bach, Johann Sebastian)'
         - link: https://imslp.org/wiki/Violin_Partita_No.3_in_E_major,_BWV_1006_(Bach,_Johann_Sebastian)
           title: 'Violin Partita No.3 in E major, BWV 1006 (Bach, Johann Sebastian)'
+      videos:
+        - id: oO9lSd5NdvU
+          title: 'Bach: Gavotte en Rondeau for solo violin / Shaham'
     - title: '劇付随音楽「[夏の夜の夢](wiki:夏の夜の夢_(メンデルスゾーン))」作品61 第9曲「[結婚行進曲](wiki:結婚行進曲_(メンデルスゾーン))」'
       originalTitle: 'Musik zu Ein Sommernachtstraum, Op.61, No.9 Hochszeitsmarsch'
       attributes:
@@ -1067,6 +1243,10 @@
       references:
         - link: https://imslp.org/wiki/A_Midsummer_Night%27s_Dream,_incidental_music,_Op.61_(Mendelssohn,_Felix)
           title: "A Midsummer Night's Dream, incidental music, Op.61 (Mendelssohn, Felix)"
+      videos:
+        - id: njdTB6HxTj8
+          position: 1985
+          title: 'Mendelssohn: Ein Sommernachtstraum (Auszüge der Bühnenmusik) ∙ hr-Sinfonieorchester ∙ Paavo Järvi'
 
 - video:
     id: Tv772tcDIkk
@@ -1185,6 +1365,9 @@
       references:
         - link: https://imslp.org/wiki/F%C3%BCr_Elise,_WoO_59_(Beethoven,_Ludwig_van)
           title: 'Für Elise, WoO 59 (Beethoven, Ludwig van)'
+      videos:
+        - id: FW_KCau2iTI
+          title: 'Lang Lang – Beethoven: "Für Elise" Bagatelle No. 25 in A Minor, WoO 59 (Live in Paris, 2019)'
 
 - video:
     id: AuaX9nIzKp4
@@ -1652,6 +1835,10 @@
           title: '6 Violin Sonatas and Partitas, BWV 1001-1006 (Bach, Johann Sebastian)'
         - link: https://imslp.org/wiki/Violin_Partita_No.3_in_E_major,_BWV_1006_(Bach,_Johann_Sebastian)
           title: 'Violin Partita No.3 in E major, BWV 1006 (Bach, Johann Sebastian)'
+      videos:
+        - id: gYT1JUq0k04
+          position: 14
+          title: 'Bach - Violin Partita no. 3 in E major BWV 1006 - Sato | Netherlands Bach Society'
 
 - video:
     id: Af46LCtbEcA
@@ -1737,6 +1924,10 @@
       references:
         - link: https://imslp.org/wiki/Zigeunerweisen,_Op.20_(Sarasate,_Pablo_de)
           title: 'Zigeunerweisen, Op.20 (Sarasate, Pablo de)'
+      videos:
+        - id: ch_UVM4_0WY
+          position: 30
+          title: '[NYCP] Sarasate - Zigeunerweisen Op. 20 (Elly Suh, violin)'
 
 - video:
     id: iXuDonwf44U

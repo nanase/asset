@@ -1,4 +1,29 @@
 - video:
+    id: OFbcc5cSF-g
+    type: live
+    publishedAt: 2023/08/31 12:00
+  name: '【楽曲解説】うだる暑さに轟く雷鳴…まさに現代の「夏」！？ヴィヴァルディ「四季」より”夏”【純喫茶ジェネット】'
+  shortname: 'うだる暑さに轟く雷鳴…まさに現代の「夏」！？ヴィヴァルディ「四季」より”夏”'
+  categories: ['純喫茶ジェネット', '楽曲解説']
+  tunes:
+    - title: |-
+        ヴァイオリン協奏曲集「[和声と創意の試み](wiki:和声と創意の試み)」作品8より "[四季](wiki:四季_(ヴィヴァルディ))"
+        協奏曲第2番ト短調 RV 315「[夏](wiki:四季_(ヴィヴァルディ)#協奏曲第2番ト短調_RV_315「夏」（L'Estate）)」
+      originalTitle: "Il cimento dell'armonia e dell'inventione, Concerto Nº 1 in Mi maggiore, opera 8, RV 315, \"L'estate\""
+      attributes:
+        - name: 作曲
+          text: '[アントニオ・ヴィヴァルディ](wiki:アントニオ・ヴィヴァルディ)'
+      description: 'BGMとして（第3楽章 Presto）、[ヴァイオリン演奏](yt:OFbcc5cSF-g?t=3400)として'
+      references:
+        - link: https://imslp.org/wiki/Il_cimento_dell%27armonia_e_dell%27inventione,_Op.8_(Vivaldi,_Antonio)
+          title: "Il cimento dell'armonia e dell'inventione, Op.8 (Vivaldi, Antonio)"
+        - link: https://imslp.org/wiki/Violin_Concerto_in_G_minor,_RV_315_(Vivaldi,_Antonio)
+          title: "Violin Concerto in G minor, RV 315 (Vivaldi, Antonio)"
+      videos:
+        - id: RvDt_KtOzbc
+          title: "Vivaldi Four Seasons: Summer (L'Estate), complete; Freivogel & Voices of Music, RV 315, original 4K"
+
+- video:
     id: NhTMyq1gLb0
     type: live
     publishedAt: 2023/08/29 12:00

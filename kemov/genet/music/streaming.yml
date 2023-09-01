@@ -1,4 +1,126 @@
 - video:
+    id: 9pkRRV8awuM
+    type: live
+    publishedAt: 2023/09/01 21:00
+  name: '【１周年記念】【生演奏】デビュー1周年！感謝のヴァイオリン生演奏ＬＩＶＥ！'
+  categories: ['記念配信']
+  tunes:
+    - title: '[ハム太郎とっとこうた](wiki:ハム太郎とっとこうた)'
+      attributes:
+        - name: 'アニメ'
+          text: '「[とっとこハム太郎](wiki:とっとこハム太郎_(アニメ))」 オープニングテーマ'
+        - name: '作曲・作詞'
+          text: '[河井リツ子](wiki:河井リツ子)'
+        - name: '編曲'
+          text: '[岩﨑元是](wiki:岩崎元是)'
+      description: '[ヴァイオリン演奏](yt:9pkRRV8awuM?t=181)として'
+      videos:
+        - id: Lg96zmH7D7w
+          position: 5
+          title: '【アニメ】「ハム太郎とっとこうた」　（歌：ハムちゃんず）【公式】とっとこハム太郎のオープニングテーマ曲　その１'
+    - title: '[めざせポケモンマスター](wiki:めざせポケモンマスター)'
+      attributes:
+        - name: 'アニメ'
+          text: '「[ポケットモンスター](wiki:ポケットモンスター_(1997-2002年のアニメ))」 オープニングテーマ'
+        - name: '作曲'
+          text: '[たなかひろかず](wiki:田中宏和)'
+        - name: '作詞'
+          text: '[戸田昭吾](wiki:戸田昭吾)'
+        - name: '編曲'
+          text: '[渡部チェル](wiki:渡部チェル)'
+      description: '[ヴァイオリン演奏](yt:9pkRRV8awuM?t=278)として'
+    - title: '[炎](wiki:炎_(LiSAの曲))'
+      attributes:
+        - name: '映画'
+          text: '「[劇場版 鬼滅の刃 無限列車編](wiki:劇場版_鬼滅の刃_無限列車編)」 主題歌'
+        - name: '作曲'
+          text: '[梶浦由記](wiki:梶浦由記)'
+        - name: '作詞'
+          text: '[梶浦由記](wiki:梶浦由記)、[LiSA](wiki:LiSA)'
+      description: '[ヴァイオリン演奏](yt:9pkRRV8awuM?t=640)として'
+      videos:
+        - id: 4DxL6IKmXx4
+          title: 'LiSA 『炎』 -MUSiC CLiP-'
+    - title: '[Pretender](wiki:Pretender (Official髭男dismの曲))'
+      attributes:
+        - name: '作曲・作詞'
+          text: '[藤原聡](wiki:藤原聡)'
+      description: '[ヴァイオリン演奏](yt:9pkRRV8awuM?t=920)として'
+      videos:
+        - id: TQ8WlA2GXbk
+          title: 'Official髭男dism - Pretender［Official Video］'
+    - title: '[God knows…](wiki:涼宮ハルヒの詰合_〜TVアニメ「涼宮ハルヒの憂鬱」劇中歌集シングル〜#「God_knows…」)'
+      attributes:
+        - name: 'アニメ'
+          text: '「[涼宮ハルヒの憂鬱](wiki:涼宮ハルヒの憂鬱_(アニメ))」 挿入曲'
+        - name: '作曲・編曲'
+          text: '[神前暁](wiki:神前暁)'
+        - name: '作詞'
+          text: '[畑亜貴](wiki:畑亜貴)'
+      description: '[歌唱](yt:9pkRRV8awuM?t=1333)として'
+    - title: '[残酷な天使のテーゼ](wiki:残酷な天使のテーゼ)'
+      attributes:
+        - name: 'アニメ'
+          text: '「[新世紀エヴァンゲリオン](wiki:新世紀エヴァンゲリオン)」 オープニングテーマ'
+        - name: '作曲'
+          text: '[佐藤英敏](wiki:佐藤英敏)'
+        - name: '作詞'
+          text: '[及川眠子](wiki:及川眠子)'
+      description: '[歌唱](yt:9pkRRV8awuM?t=1709)として'
+      videos:
+        - id: o6wtDPVkKqI
+          title: 「残酷な天使のテーゼ」MUSIC VIDEO（HDver.）/Zankoku na Tenshi no Te-ze“The Cruel Angel's Thesis”
+    - title: '[丸ノ内サディスティック](wiki:丸ノ内サディスティック)'
+      attributes:
+        - name: '作詞・作曲'
+          text: '[椎名林檎](wiki:椎名林檎)'
+      description: '[ヴァイオリン演奏](yt:9pkRRV8awuM?t=1973)として'
+      videos:
+        - id: i9I55MZLYYY
+          title: '東京事変 - 幕ノ内サディスティック'
+    - title: '[マリーゴールド](wiki:マリーゴールド_(あいみょんの曲))'
+      attributes:
+        - name: '作詞・作曲'
+          text: '[あいみょん](wiki:あいみょん)'
+        - name: '編曲'
+          text: '立崎優介、[田中ユウスケ](wiki:田中ユウスケ)'
+      description: '[ヴァイオリン演奏](yt:9pkRRV8awuM?t=2213)として'
+      videos:
+        - id: 0xSiBpUdW4E
+          title: 'あいみょん - マリーゴールド【OFFICIAL MUSIC VIDEO】'
+    - title: '[気まぐれロマンティック](wiki:気まぐれロマンティック)'
+      attributes:
+        - name: '作詞・作曲'
+          text: '[水野良樹](wiki:水野良樹)'
+        - name: '編曲'
+          text: '[江口亮](wiki:江口亮)'
+      description: '[歌唱](yt:9pkRRV8awuM?t=2928)として'
+      videos:
+        - id: 5XCSt_0lwOE
+          title: 'いきものがかり 『気まぐれロマンティック』Music Video'
+    - title: '[Together](wiki:Together/君のそばで_〜ヒカリのテーマ〜)'
+      attributes:
+        - name: 'アニメ'
+          text: '「[ポケットモンスター ダイヤモンド&パール](wiki:ポケットモンスター_ダイヤモンド%26パール)」 オープニングテーマ'
+        - name: '作曲'
+          text: '[Rie](wiki:Rie)'
+        - name: '作詞'
+          text: 'D&Pプロジェクト'
+        - name: '編曲'
+          text: '[市川淳](wiki:市川淳)'
+      description: '[歌唱＆ヴァイオリン演奏](yt:9pkRRV8awuM?t=3346)として'
+    - title: '[さくらんぼ](wiki:さくらんぼ (曲))'
+      attributes:
+        - name: '作詞・作曲'
+          text: '[愛](wiki:大塚愛)'
+        - name: '編曲'
+          text: '[愛](wiki:大塚愛)、[Ikoman](wiki:Ikoman)'
+      description: '[ヴァイオリン演奏](yt:9pkRRV8awuM?t=3964)として'
+      videos:
+        - id: upODO6OuOOk
+          title: '大塚 愛 / さくらんぼ'
+
+- video:
     id: OFbcc5cSF-g
     type: live
     publishedAt: 2023/08/31 12:00

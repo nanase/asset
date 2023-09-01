@@ -350,6 +350,26 @@
           title: 'Serenade for String Orchestra, Op.48 (Tchaikovsky, Pyotr)'
 
 - video:
+    id: hIgxR7zdcvk
+    type: live
+    publishedAt: 2023/07/19 13:00
+  name: '【ヴァイオリン講座】第1弾 音をだせるようになるまで！'
+  categories: ['コラボ配信', 'ヴァイオリン講座']
+  tunes:
+    - title: '[3つのヴァイオリンと通奏低音のためのカノンとジーグ ニ長調](wiki:カノン_(パッヘルベル)) より「[カノン](wiki:カノン_(パッヘルベル)#カノン)」'
+      originalTitle: 'Kanon und Gigue für drei Violinen und Basso Continuo, P.37, No.1 Kanon'
+      attributes:
+        - name: 作曲
+          text: '[ヨハン・パッヘルベル](wiki:ヨハン・パッヘルベル)'
+      references:
+        - link: https://imslp.org/wiki/Canon_and_Gigue_in_D_major,_P.37_(Pachelbel,_Johann)
+          title: 'Canon and Gigue in D major, P.37 (Pachelbel, Johann)'
+      description: '[ジャングルキャット](https://www.youtube.com/@junglecat3723)との[ヴァイオリン演奏](yt:hIgxR7zdcvk?t=3028)として'
+      videos:
+        - id: Xu5TlSXEzzs
+          title: 'Canon in D by Pachelbel (Vetta Quartet from Singapore)'
+
+- video:
     id: oQqCH95h8FQ
     type: live
     publishedAt: 2023/07/19 0:00

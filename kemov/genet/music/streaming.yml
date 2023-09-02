@@ -8,7 +8,8 @@
     - title: '[ハム太郎とっとこうた](wiki:ハム太郎とっとこうた)'
       attributes:
         - name: 'アニメ'
-          text: '「[とっとこハム太郎](wiki:とっとこハム太郎_(アニメ))」 オープニングテーマ'
+          text: '「[とっとこハム太郎](wiki:とっとこハム太郎_(アニメ))」オープニングテーマ'
+          noSeparator: true
         - name: '作曲・作詞'
           text: '[河井リツ子](wiki:河井リツ子)'
         - name: '編曲'
@@ -21,7 +22,8 @@
     - title: '[めざせポケモンマスター](wiki:めざせポケモンマスター)'
       attributes:
         - name: 'アニメ'
-          text: '「[ポケットモンスター](wiki:ポケットモンスター_(1997-2002年のアニメ))」 オープニングテーマ'
+          text: '「[ポケットモンスター](wiki:ポケットモンスター_(1997-2002年のアニメ))」オープニングテーマ'
+          noSeparator: true
         - name: '作曲'
           text: '[たなかひろかず](wiki:田中宏和)'
         - name: '作詞'
@@ -32,7 +34,8 @@
     - title: '[炎](wiki:炎_(LiSAの曲))'
       attributes:
         - name: '映画'
-          text: '「[劇場版 鬼滅の刃 無限列車編](wiki:劇場版_鬼滅の刃_無限列車編)」 主題歌'
+          text: '「[劇場版 鬼滅の刃 無限列車編](wiki:劇場版_鬼滅の刃_無限列車編)」主題歌'
+          noSeparator: true
         - name: '作曲'
           text: '[梶浦由記](wiki:梶浦由記)'
         - name: '作詞'
@@ -52,7 +55,8 @@
     - title: '[God knows…](wiki:涼宮ハルヒの詰合_〜TVアニメ「涼宮ハルヒの憂鬱」劇中歌集シングル〜#「God_knows…」)'
       attributes:
         - name: 'アニメ'
-          text: '「[涼宮ハルヒの憂鬱](wiki:涼宮ハルヒの憂鬱_(アニメ))」 挿入曲'
+          text: '「[涼宮ハルヒの憂鬱](wiki:涼宮ハルヒの憂鬱_(アニメ))」挿入曲'
+          noSeparator: true
         - name: '作曲・編曲'
           text: '[神前暁](wiki:神前暁)'
         - name: '作詞'
@@ -61,7 +65,8 @@
     - title: '[残酷な天使のテーゼ](wiki:残酷な天使のテーゼ)'
       attributes:
         - name: 'アニメ'
-          text: '「[新世紀エヴァンゲリオン](wiki:新世紀エヴァンゲリオン)」 オープニングテーマ'
+          text: '「[新世紀エヴァンゲリオン](wiki:新世紀エヴァンゲリオン)」オープニングテーマ'
+          noSeparator: true
         - name: '作曲'
           text: '[佐藤英敏](wiki:佐藤英敏)'
         - name: '作詞'
@@ -101,7 +106,8 @@
     - title: '[Together](wiki:Together/君のそばで_〜ヒカリのテーマ〜)'
       attributes:
         - name: 'アニメ'
-          text: '「[ポケットモンスター ダイヤモンド&パール](wiki:ポケットモンスター_ダイヤモンド%26パール)」 オープニングテーマ'
+          text: '「[ポケットモンスター ダイヤモンド&パール](wiki:ポケットモンスター_ダイヤモンド%26パール)」オープニングテーマ'
+          noSeparator: true
         - name: '作曲'
           text: '[Rie](wiki:Rie)'
         - name: '作詞'

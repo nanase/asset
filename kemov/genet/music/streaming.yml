@@ -1,4 +1,24 @@
 - video:
+    id: tJk96tobwHc
+    type: live
+    publishedAt: 2023/09/04 23:00
+  name: '【雑談】ジェネットの友達探し！～初見さん、ヴァイオリン…聴いていきませんか？～＃14'
+  shortname: 'ジェネットの友達探し！～初見さん、ヴァイオリン…聴いていきませんか？～＃14'
+  categories: ['雑談配信', 'ジェネットの友達探し']
+  tunes:
+    - title: '[ヨドバシカメラの歌](wiki:ヨドバシカメラ#ヨドバシカメラの歌)（原曲: [リパブリック讃歌](wiki:リパブリック讃歌)）'
+      originalTitle: 'The Battle Hymn of the Republic'
+      attributes:
+        - name: '原曲作曲'
+          text: '[ウィリアム・ステッフ](wiki:ウィリアム・ステッフ)'
+      videos:
+        - id: 9SYYtkahc9Q
+          title: 'ヨドバシカメラの歌 秋葉原'
+        - id: Jy6AOGRsR80
+          title: 'The Battle Hymn of the Republic'
+      description: '[ヴァイオリン演奏](yt:tJk96tobwHc?t=4025)として'
+
+- video:
     id: 9pkRRV8awuM
     type: live
     publishedAt: 2023/09/01 21:00

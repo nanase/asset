@@ -1,4 +1,53 @@
 - video:
+    id: 4g6ENPzB0aM
+    type: live
+    publishedAt: 2023/09/10 23:00
+  name: '【雑談】【ヒーリング】安眠におすすめなクラシックを紹介しつつ雑談します'
+  shortname: '【ヒーリング】安眠におすすめなクラシックを紹介しつつ雑談します'
+  categories: ['雑談配信']
+  tunes:
+    - title: '[子守歌](wiki:子守歌_(シューベルト))'
+      originalTitle: 'Wiegenlied "Schlafe, schlafe, holder süßer Knabe"'
+      attributes:
+        - name: 作曲
+          text: '[フランツ・シューベルト](wiki:フランツ・シューベルト)'
+      description: 'BGMとして'
+      references:
+        - link: https://imslp.org/wiki/Wiegenlied,_D.498_(Op.98_No.2)_(Schubert,_Franz)
+          title: 'Wiegenlied, D.498 (Schubert, Franz)'
+      videos:
+        - id: 4W3u6uYw5DQ
+          position: 6
+          title: 'Schubert, Wiegenlied D. 498. Anna Lucia Richter & Ammiel Bushakevitz ARTE'
+    - title: '組曲「[動物の謝肉祭](wiki:動物の謝肉祭)」より[白鳥](wiki:動物の謝肉祭#各曲)'
+      originalTitle: 'Le carnaval des animaux, XIII. Le Cygne'
+      attributes:
+        - name: 作曲
+          text: '[カミーユ・サン＝サーンス](wiki:カミーユ・サン＝サーンス)'
+      description: 'BGMとして'
+      videos:
+        - id: 4OwfKNH8IrU
+          title: '"Le Cygne" - CARNAVAL ST SAENS (4 septembre 2010)'
+      references:
+        - link: https://imslp.org/wiki/La_Carnaval_des_Animaux_(Saint-Sa%C3%ABns,_Camille)
+          title: 'Le carnaval des animaux (Saint-Saëns, Camille)'
+    - title: '[無伴奏チェロ組曲](wiki:無伴奏チェロ組曲) 第1番ト長調 BWV1007 前奏曲'
+      originalTitle: 'Suites á Violoncello Solo senza Basso, No.1 BWV1007, I. Praeludium'
+      attributes:
+        - name: 作曲
+          text: '[ヨハン・ゼバスティアン・バッハ](wiki:ヨハン・ゼバスティアン・バッハ)'
+      description: 'BGMとして'
+      videos:
+        - id: cGnZHIY_hoQ
+          position: 8
+          title: 'Bach - Cello Suite no. 1 in G major BWV 1007 - Swarts | Netherlands Bach Society'
+      references:
+        - link: https://imslp.org/wiki/Suites_for_Violoncello_Solo,_BWV_1007-1012_(Bach,_Johann_Sebastian)
+          title: '6 Cello Suites, BWV 1007-1012 (Bach, Johann Sebastian)'
+        - link: https://imslp.org/wiki/Cello_Suite_No.1_in_G_major,_BWV_1007_(Bach,_Johann_Sebastian)
+          title: 'Cello Suite No.1 in G major, BWV 1007 (Bach, Johann Sebastian)'
+
+- video:
     id: tJk96tobwHc
     type: live
     publishedAt: 2023/09/04 23:00

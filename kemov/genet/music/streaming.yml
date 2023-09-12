@@ -1,4 +1,30 @@
 - video:
+    id: o8WGdj9ywPs
+    type: live
+    publishedAt: 2023/09/12 12:00
+  name: '【雑談】ジェネットの友達探し！～初見さん、生演奏聴いていきませんか？～＃15'
+  shortname: 'ジェネットの友達探し！～初見さん、生演奏聴いていきませんか？～＃15'
+  categories: ['雑談配信', 'ジェネットの友達探し']
+  tunes:
+    - title: '[夕焼小焼](wiki:夕焼小焼)'
+      attributes:
+        - name: 作曲
+          text: '[草川信](wiki:草川信)'
+        - name: 作詞
+          text: '[中村雨紅](wiki:中村雨紅)'
+      description: '[ヴァイオリン演奏](yt:o8WGdj9ywPs?t=2202)として'
+      videos:
+        - id: gzdUf40_H9s
+          title: '夕焼小焼【神戸市混声合唱団・東京混声合唱団／指揮：山田和樹】'
+    - title: '[にんげんっていいな](wiki:まんが日本昔ばなし#エンディングテーマ)'
+      attributes:
+        - name: 作曲
+          text: '[小林亜星](wiki:小林亜星)'
+        - name: 作詞
+          text: '[山口あかり](wiki:山口あかり)'
+      description: '[ヴァイオリン演奏](yt:o8WGdj9ywPs?t=2835)として'
+
+- video:
     id: 4g6ENPzB0aM
     type: live
     publishedAt: 2023/09/10 23:00

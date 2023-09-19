@@ -1,4 +1,29 @@
 - video:
+    id: JsYOoyXRqKI
+    type: live
+    publishedAt: 2023/09/19 12:00
+  name: '【雑談】ジェネットの友達探し！～お客様の中に初見さんはいませんか！～＃16'
+  shortname: 'ジェネットの友達探し！～お客様の中に初見さんはいませんか！～＃16'
+  categories: ['雑談配信', 'ジェネットの友達探し']
+  tunes:
+    - title: '[ルパン三世のテーマ](wiki:ルパン三世のテーマ)'
+      attributes:
+        - name: 作詞・作曲
+          text: '[大野雄二](wiki:大野雄二)'
+      description: '[ヴァイオリン演奏](yt:JsYOoyXRqKI?t=1240)として'
+      videos:
+        - id: Kyl7fgvV1oo
+          title: "ルパン三世のテーマ'80 - You & Explosion Band | 大野雄二ベスト・ヒット・ライブ 2022.01.28 at 東京国際フォーラム ホールA"
+    - title: '[情熱大陸](wiki:情熱大陸#テーマ音楽)'
+      attributes:
+        - name: 作曲
+          text: '[葉加瀬太郎](wiki:葉加瀬太郎)'
+      description: '[ヴァイオリン演奏](yt:JsYOoyXRqKI?t=3458)として'
+      videos:
+        - id: 53B3ZrhfnOA
+          title: '葉加瀬太郎 情熱大陸【OFFICIAL】'
+
+- video:
     id: o8WGdj9ywPs
     type: live
     publishedAt: 2023/09/12 12:00

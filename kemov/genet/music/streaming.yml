@@ -1,4 +1,36 @@
 - video:
+    id: VUQDFxsQi0E
+    type: live
+    publishedAt: 2023/10/01 22:00
+  name: '【記念日雑談】～復活の儀～'
+  categories: ['雑談配信']
+  tunes:
+    - title: '[津軽海峡・冬景色](wiki:津軽海峡・冬景色)'
+      attributes:
+        - name: 作曲・編曲
+          text: '[三木たかし](wiki:三木たかし)'
+        - name: 作詞
+          text: '[阿久悠](wiki:阿久悠)'
+      description: '[ヴァイオリン演奏](yt:VUQDFxsQi0E?t=1148)として'
+    - title: '[夢見る少女じゃいられない](wiki:夢見る少女じゃいられない)'
+      attributes:
+        - name: 作詞・作曲・編曲
+          text: '[織田哲郎](wiki:織田哲郎)'
+      description: '[ヴァイオリン演奏](yt:VUQDFxsQi0E?t=2442)として'
+      videos:
+        - id: FnFYjUvW3Qg
+          title: '相川七瀬 / 夢見る少女じゃいられない'
+    - title: '[ヨドバシカメラの歌](wiki:ヨドバシカメラ#ヨドバシカメラの歌)（原曲: [リパブリック讃歌](wiki:リパブリック讃歌)）'
+      originalTitle: 'The Battle Hymn of the Republic'
+      attributes:
+        - name: '原曲作曲'
+          text: '[ウィリアム・ステッフ](wiki:ウィリアム・ステッフ)'
+      videos:
+        - id: wkZFgYLxbyw
+          title: 'ヨドバシカメラの歌 横浜'
+      description: '[ヴァイオリン演奏](yt:VUQDFxsQi0E?t=3244)として'
+
+- video:
     id: JsYOoyXRqKI
     type: live
     publishedAt: 2023/09/19 12:00

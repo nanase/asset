@@ -10,7 +10,9 @@
       "sub": "#F8C112",
       "light": "#FFEBA4",
       "back": "#FFEBA4"
-    }
+    },
+    "activityStartDate": "2021-04-26",
+    "activityEndDate": "2022-05-21"
   },
   {
     "id": "UCmYO-WfY7Tasry4D1YB4LJw",
@@ -23,7 +25,9 @@
       "sub": "#FB7F95",
       "light": "#FDD5DE",
       "back": "#FDB9CE"
-    }
+    },
+    "activityStartDate": "2021-04-28",
+    "activityEndDate": null
   },
   {
     "id": "UCMpw36mXEu3SLsqdrJxUKNA",
@@ -36,7 +40,9 @@
       "sub": "#96949D",
       "light": "#FFC1B6",
       "back": "#BEBDC3"
-    }
+    },
+    "activityStartDate": "2021-06-11",
+    "activityEndDate": null
   },
   {
     "id": "UCabMjG8p6G5xLkPJgEoTnDg",
@@ -50,7 +56,9 @@
       "sub": "#888580",
       "light": "#FED690",
       "back": "#FED690"
-    }
+    },
+    "activityStartDate": "2021-12-05",
+    "activityEndDate": null
   },
   {
     "id": "UCdNBhcAohYjXlUVYsz8X2KQ",
@@ -64,7 +72,9 @@
       "sub": "#374174",
       "light": "#6D77A8",
       "back": "#374174"
-    }
+    },
+    "activityStartDate": "2022-03-19",
+    "activityEndDate": null
   },
   {
     "id": "UCxm7yNjJsSvyvcG96-Cvmpw",
@@ -77,7 +87,9 @@
       "sub": "#FF9537",
       "light": "#FECB94",
       "back": "#FE9E74"
-    }
+    },
+    "activityStartDate": "2022-05-28",
+    "activityEndDate": null
   },
   {
     "id": "UCNObi6xvj6QeZ0g7BhAbF7w",
@@ -90,7 +102,9 @@
       "sub": "#FFBB98",
       "light": "#FFBB98",
       "back": "#DD7278"
-    }
+    },
+    "activityStartDate": "2022-09-01",
+    "activityEndDate": null
   },
   {
     "id": "UCYa58DdXGAGMJQHqTxi-isA",
@@ -103,7 +117,9 @@
       "sub": "#FFE258",
       "light": "#FFE258",
       "back": "#FFE35E"
-    }
+    },
+    "activityStartDate": "2022-09-02",
+    "activityEndDate": null
   },
   {
     "id": "UCKob71cjOlyYF5bgvtGuNKQ",
@@ -116,7 +132,9 @@
       "sub": "#63B2EA",
       "light": "#B0E4F9",
       "back": "#B0E4F9"
-    }
+    },
+    "activityStartDate": "2022-09-09",
+    "activityEndDate": null
   },
   {
     "id": "UCtJSUW-5FnwfaivXpluABWA",
@@ -130,7 +148,9 @@
       "sub": "#FEC7DC",
       "light": "#FEC7DC",
       "back": "#8FC579"
-    }
+    },
+    "activityStartDate": "2022-09-09",
+    "activityEndDate": null
   },
   {
     "id": "UCnyE-wD1pE2GZOxA6OHjW9g",
@@ -143,6 +163,8 @@
       "sub": "#F383BD",
       "light": "#FAB6DD",
       "back": "#FF3FD3"
-    }
+    },
+    "activityStartDate": "2022-09-09",
+    "activityEndDate": null
   }
 ]

@@ -1,4 +1,35 @@
 - video:
+    id: BynViF37mV8
+    type: live
+    publishedAt: 2023/10/16 12:00
+  name: '【雑談】ジェネットの友達探し！～初見さん！はじめましてジェネットでし！～＃17'
+  shortname: 'ジェネットの友達探し！～初見さん！はじめましてジェネットでし！～＃17'
+  categories: ['雑談配信', 'ジェネットの友達探し']
+  tunes:
+    - title: '[メリー・クリスマス ミスターローレンス](wiki:戦場のメリークリスマス_(サウンドトラック)#収録曲)'
+      originalTitle: 'Merry Christmas Mr. Lawrence'
+      attributes:
+        - name: '映画'
+          text: '「[戦場のメリークリスマス](wiki:戦場のメリークリスマス)」挿入曲'
+          noSeparator: true
+        - name: 作曲
+          text: '[坂本龍一](wiki:坂本龍一)'
+      description: '[ヴァイオリン演奏](yt:BynViF37mV8?t=404)として'
+      videos:
+        - id: LGs_vGt0MY8
+          title: 'Ryuichi Sakamoto - Merry Christmas, Mr. Lawrence'
+    - title: '[いつも何度でも](wiki:いつも何度でも/いのちの名前)'
+      attributes:
+        - name: '映画'
+          text: '「[千と千尋の神隠し](wiki:千と千尋の神隠し)」主題歌'
+          noSeparator: true
+        - name: 作曲
+          text: '[木村弓](wiki:木村弓)'
+        - name: 作詞
+          text: '[覚和歌子](wiki:覚和歌子)'
+      description: '[ヴァイオリン演奏](yt:BynViF37mV8?t=3265)として'
+
+- video:
     id: VUQDFxsQi0E
     type: live
     publishedAt: 2023/10/01 22:00

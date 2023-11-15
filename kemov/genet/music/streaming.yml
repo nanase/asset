@@ -1,4 +1,26 @@
 - video:
+    id: VNKK2dlo3VY
+    type: live
+    publishedAt: 2023/11/15 22:00
+  name: '【楽曲解説】今年…秋はいずこへ…ヴィヴァルディ「四季」より”秋”【純喫茶ジェネット】'
+  shortname: '今年…秋はいずこへ…ヴィヴァルディ「四季」より”秋”'
+  categories: ['純喫茶ジェネット', '楽曲解説']
+  tunes:
+    - title: |-
+        ヴァイオリン協奏曲集「[和声と創意の試み](wiki:和声と創意の試み)」作品8より "[四季](wiki:四季_(ヴィヴァルディ))"
+        協奏曲第2番ト短調 RV 315「[秋](wiki:四季_(ヴィヴァルディ)#協奏曲第3番ヘ長調_RV_293「秋」（L'Autunno）)」
+      originalTitle: "Il cimento dell'armonia e dell'inventione, Concerto Nº 3 in Mi maggiore, opera 8, RV 293, \"L'Autunno\""
+      attributes:
+        - name: 作曲
+          text: '[アントニオ・ヴィヴァルディ](wiki:アントニオ・ヴィヴァルディ)'
+      description: 'BGMとして（第1楽章 Allegro）、[ヴァイオリン演奏](yt:VNKK2dlo3VY?t=3155)として'
+      references:
+        - link: https://imslp.org/wiki/Il_cimento_dell%27armonia_e_dell%27inventione,_Op.8_(Vivaldi,_Antonio)
+          title: "Il cimento dell'armonia e dell'inventione, Op.8 (Vivaldi, Antonio)"
+        - link: https://imslp.org/wiki/Violin_Concerto_in_F_major,_RV_293_(Vivaldi,_Antonio)
+          title: "Violin Concerto in F major, RV 293 (Vivaldi, Antonio)"
+
+- video:
     id: BynViF37mV8
     type: live
     publishedAt: 2023/10/16 12:00

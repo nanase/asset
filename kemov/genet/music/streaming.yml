@@ -1,4 +1,63 @@
 - video:
+    id: tEKAT3gLoUs
+    type: live
+    publishedAt: 2023/11/26 22:30
+  name: '【楽曲解説】「運命」と双子の作品…⁉ベートーヴェン「田園」ってどんな作品？【純喫茶ジェネット】'
+  shortname: '「運命」と双子の作品…⁉ベートーヴェン「田園」ってどんな作品？'
+  categories: ['純喫茶ジェネット', '楽曲解説']
+  tunes:
+    - title: '[交響曲第6番 ヘ長調 作品68「田園」](wiki:交響曲第6番_(ベートーヴェン))'
+      originalTitle: 'Symphony No.6 in F major, Op.68, "Pastoral"'
+      attributes:
+        - name: 作曲
+          text: '[ルートヴィヒ・ヴァン・ベートーヴェン](wiki:ルートヴィヒ・ヴァン・ベートーヴェン)'
+      description: 'BGMとして、[ヴァイオリン演奏](yt:tEKAT3gLoUs?t=3920)として'
+      references:
+        - link: https://imslp.org/wiki/Symphony_No.6,_Op.68_(Beethoven,_Ludwig_van)
+          title: 'Symphony No.6, Op.68 (Beethoven, Ludwig van)'
+
+- video:
+    id: lm8MgKoPuC0
+    type: live
+    publishedAt: 2023/11/24 22:00
+  name: '【けものスタジアム】行楽の秋！観光地へ、いざゆかん'
+  shortname: '行楽の秋！観光地へ、いざゆかん'
+  categories: ['けものスタジアム']
+  tunes:
+    - title: '劇付随音楽「[夏の夜の夢](wiki:夏の夜の夢_(メンデルスゾーン))」作品61 第9曲「[結婚行進曲](wiki:結婚行進曲_(メンデルスゾーン))」'
+      originalTitle: 'Musik zu Ein Sommernachtstraum, Op.61, No.9 Hochszeitsmarsch'
+      attributes:
+        - name: 作曲
+          text: '[フェリックス・メンデルスゾーン](wiki:フェリックス・メンデルスゾーン)'
+      description: '[ヴァイオリン演奏](yt:lm8MgKoPuC0?t=2417)として'
+      references:
+        - link: https://imslp.org/wiki/A_Midsummer_Night%27s_Dream,_incidental_music,_Op.61_(Mendelssohn,_Felix)
+          title: "A Midsummer Night's Dream, incidental music, Op.61 (Mendelssohn, Felix)"
+    - title: 'オペラ「[ローエングリン](wiki:ローエングリン)」劇中歌より「[婚礼の合唱](wiki:婚礼の合唱)」'
+      originalTitle: 'Lohengrin, WWV 75, Treulich geführt'
+      attributes:
+        - name: 作曲
+          text: '[リヒャルト・ワーグナー](wiki:リヒャルト・ワーグナー)'
+      description: '[ヴァイオリン演奏](yt:lm8MgKoPuC0?t=2520)として'
+      references:
+        - link: https://imslp.org/wiki/Lohengrin,_WWV_75_(Wagner,_Richard)
+          title: "Lohengrin, WWV 75 (Wagner, Richard)"
+    - title: '[ようこそジャパリパークへ](wiki:ようこそジャパリパークへ)'
+      attributes:
+        - name: 作曲
+          text: '[大石昌良](wiki:大石昌良)'
+      description: '[ヴァイオリン演奏](yt:lm8MgKoPuC0?t=4414)として'
+    - title: '[3つのヴァイオリンと通奏低音のためのカノンとジーグ ニ長調](wiki:カノン_(パッヘルベル)) より「[カノン](wiki:カノン_(パッヘルベル)#カノン)」'
+      originalTitle: 'Kanon und Gigue für drei Violinen und Basso Continuo, P.37, No.1 Kanon'
+      attributes:
+        - name: 作曲
+          text: '[ヨハン・パッヘルベル](wiki:ヨハン・パッヘルベル)'
+      references:
+        - link: https://imslp.org/wiki/Canon_and_Gigue_in_D_major,_P.37_(Pachelbel,_Johann)
+          title: 'Canon and Gigue in D major, P.37 (Pachelbel, Johann)'
+      description: '[ヴァイオリン演奏（音符ブロックとの合奏）](yt:lm8MgKoPuC0?t=7565)として'
+
+- video:
     id: VNKK2dlo3VY
     type: live
     publishedAt: 2023/11/15 22:00

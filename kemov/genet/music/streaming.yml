@@ -1,4 +1,155 @@
 - video:
+    id: 9VTwK_r8vZA
+    type: live
+    publishedAt: 2023/12/10 20:30
+  name: '初！縦型配信！ヴァイオリン演奏＆歌配信'
+  categories: ['純喫茶ジェネット', '演奏配信', '縦型配信']
+  tunes:
+    - title: '[ハム太郎とっとこうた](wiki:ハム太郎とっとこうた)'
+      attributes:
+        - name: 'アニメ'
+          text: '「[とっとこハム太郎](wiki:とっとこハム太郎_(アニメ))」オープニングテーマ'
+          noSeparator: true
+        - name: '作曲・作詞'
+          text: '[河井リツ子](wiki:河井リツ子)'
+        - name: '編曲'
+          text: '[岩﨑元是](wiki:岩崎元是)'
+      description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=570)として'
+    - title: '[ドライフラワー](wiki:ドライフラワー_(優里の曲))'
+      attributes:
+        - name: '作曲・作詞'
+          text: '[優里](wiki:優里)'
+      description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=725)として'
+    - title: '[紅蓮華](wiki:紅蓮華 (LiSAの曲))'
+      attributes:
+        - name: 'テレビアニメ'
+          text: '「[鬼滅の刃](wiki:鬼滅の刃_(アニメ))」オープニングテーマ'
+          noSeparator: true
+        - name: '作曲'
+          text: '[草野華余子](wiki:草野華余子)'
+      description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=1080)として'
+    - title: '[炎](wiki:炎_(LiSAの曲))'
+      attributes:
+        - name: '映画'
+          text: '「[劇場版 鬼滅の刃 無限列車編](wiki:劇場版_鬼滅の刃_無限列車編)」主題歌'
+          noSeparator: true
+        - name: '作曲'
+          text: '[梶浦由記](wiki:梶浦由記)'
+      description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=1530)として'
+      videos:
+        - id: 4DxL6IKmXx4
+          title: 'LiSA 『炎』 -MUSiC CLiP-'
+    - title: '[糸](wiki:命の別名/糸)'
+      attributes:
+        - name: 'テレビドラマ'
+          text: '「[聖者の行進](wiki:聖者の行進_(テレビドラマ))」主題歌'
+          noSeparator: true
+        - name: '作曲'
+          text: '[中島みゆき](wiki:中島みゆき)'
+      description: 'ヴァイオリン演奏として'
+    - title: '[丸ノ内サディスティック](wiki:丸ノ内サディスティック)'
+      attributes:
+        - name: '作曲'
+          text: '[椎名林檎](wiki:椎名林檎)'
+      description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=2270)として'
+      videos:
+        - id: i9I55MZLYYY
+          title: '東京事変 - 幕ノ内サディスティック'
+    - title: '[気まぐれロマンティック](wiki:気まぐれロマンティック)'
+      attributes:
+        - name: '作詞・作曲'
+          text: '[水野良樹](wiki:水野良樹)'
+        - name: '編曲'
+          text: '[江口亮](wiki:江口亮)'
+      description: '[歌唱とヴァイオリン演奏](yt:9VTwK_r8vZA?t=2640)として'
+      videos:
+        - id: 5XCSt_0lwOE
+          title: 'いきものがかり 『気まぐれロマンティック』Music Video'
+    - title: '[残酷な天使のテーゼ](wiki:残酷な天使のテーゼ)'
+      attributes:
+        - name: 'アニメ'
+          text: '「[新世紀エヴァンゲリオン](wiki:新世紀エヴァンゲリオン)」オープニングテーマ'
+          noSeparator: true
+        - name: '作曲'
+          text: '[佐藤英敏](wiki:佐藤英敏)'
+        - name: '作詞'
+          text: '[及川眠子](wiki:及川眠子)'
+      description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=2979)として'
+      videos:
+        - id: o6wtDPVkKqI
+          title: 「残酷な天使のテーゼ」MUSIC VIDEO（HDver.）/Zankoku na Tenshi no Te-ze“The Cruel Angel's Thesis”
+    - title: '[ムーンライト伝説](wiki:ムーンライト伝説/HEART_MOVING)'
+      attributes:
+        - name: 'アニメ'
+          text: '「[美少女戦士セーラームーン](wiki:美少女戦士セーラームーン_(テレビアニメ))」オープニングテーマ'
+          noSeparator: true
+        - name: '作曲'
+          text: '[小諸鉄矢](wiki:吉江一男)'
+        - name: '作詞'
+          text: '[池田大介](wiki:池田大介_(編曲家))'
+      description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=3360)として'
+    - title: '[千本桜 feat.初音ミク](wiki:千本桜_(曲))'
+      attributes:
+        - name: '作曲'
+          text: '[黒うさP](wiki:WhiteFlame)'
+      description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=3675)として'
+
+- video:
+    id: K3brJGkvlQk
+    type: live
+    publishedAt: 2023/12/02 22:30
+  name: '【音楽豆知識】ホリデーシーズン到来！クリスマスに聴きたいクラシックをご紹介！🎄✨【純喫茶ジェネット】'
+  shortname: 'ホリデーシーズン到来！クリスマスに聴きたいクラシックをご紹介！🎄✨'
+  categories: ['純喫茶ジェネット', '楽曲解説']
+  tunes:
+    - title: '[アヴェ・マリア](wiki:アヴェ・マリア (グノー)) (原曲: 平均律クラヴィーア曲集 第1巻 第1番 BWV846 前奏曲 4声のフーガ)'
+      originalTitle: 'Ave Maria (original: Das Wohltemperierte Klavier, Präludium und Fuge C-Dur BWV 846)'
+      attributes:
+        - name: 作曲
+          text: '[シャルル・グノー](wiki:シャルル・グノー)'
+        - name: 原曲作曲
+          text: '[ヨハン・ゼバスティアン・バッハ](wiki:ヨハン・ゼバスティアン・バッハ)'
+      description: 'BGMとして'
+    - title: '叙事詩「湖上の美人」より [エレンの歌第3番](wiki:エレンの歌第3番) 通称「アヴェ・マリア」'
+      originalTitle: 'Ellens dritter Gesang "Ave Maria"'
+      attributes:
+        - name: 作曲
+          text: '[フランツ・シューベルト](wiki:フランツ・シューベルト)'
+        - name: 原詩
+          text: '[ウォルター・スコット](wiki:ウォルター・スコット)'
+      description: '[ヴァイオリン演奏](yt:K3brJGkvlQk?t=)として'
+    - title: '[メサイア](wiki:メサイア_(ヘンデル)) より ハレルヤ'
+      originalTitle: "Messiah, 44. Hallelujah"
+      attributes:
+        - name: 作曲
+          text: '[ゲオルク・フリードリヒ・ヘンデル](wiki:ゲオルク・フリードリヒ・ヘンデル)'
+      description: 'BGMとして'
+    - title: '合奏協奏曲 ト短調 作品6-8 「[クリスマス協奏曲](wiki:クリスマス協奏曲)」'
+      originalTitle: 'Concerto grosso in G minor, Op.6, No.8 "Christmas Concerto"'
+      attributes:
+        - name: 作曲
+          text: '[アルカンジェロ・コレッリ](wiki:アルカンジェロ・コレッリ)'
+      description: 'BGM（第3楽章）として'
+    - title: 'オペラ「[ラ・ボエーム](wiki:ラ・ボエーム_(プッチーニ))」より「ムゼッタのワルツ」'
+      originalTitle: "La Bohème, Quando me'n vo soletta per la via"
+      attributes:
+        - name: 作曲
+          text: '[ジャコモ・プッチーニ](wiki:ジャコモ・プッチーニ)'
+      description: 'BGMとして'
+    - title: '[くるみ割り人形](wiki:くるみ割り人形) 作品71a 演奏会用組曲より 第3曲 金平糖の精の踊り'
+      originalTitle: 'Щелкунчик / Danse de la Fée-Dragée'
+      attributes:
+        - name: 作曲
+          text: '[ピョートル・チャイコフスキー](wiki:ピョートル・チャイコフスキー)'
+      description: 'BGMとして'
+    - title: '[くるみ割り人形](wiki:くるみ割り人形) 作品71a 演奏会用組曲より 第4曲 ロシアの踊り（トレパック）'
+      originalTitle: 'Щелкунчик / Danse russe (Trépak)'
+      attributes:
+        - name: 作曲
+          text: '[ピョートル・チャイコフスキー](wiki:ピョートル・チャイコフスキー)'
+      description: 'BGMとして、[ヴァイオリン演奏](yt:K3brJGkvlQk?t=3940)として'
+
+- video:
     id: tEKAT3gLoUs
     type: live
     publishedAt: 2023/11/26 22:30

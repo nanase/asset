@@ -14,12 +14,19 @@
           text: '[河井リツ子](wiki:河井リツ子)'
         - name: '編曲'
           text: '[岩﨑元是](wiki:岩崎元是)'
-      description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=570)として'
+      description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=576)として'
+      videos:
+        - id: Lg96zmH7D7w
+          position: 5
+          title: '【アニメ】「ハム太郎とっとこうた」　（歌：ハムちゃんず）【公式】とっとこハム太郎のオープニングテーマ曲　その１'
     - title: '[ドライフラワー](wiki:ドライフラワー_(優里の曲))'
       attributes:
         - name: '作曲・作詞'
           text: '[優里](wiki:優里)'
       description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=725)として'
+      videos:
+        - id: X-YtmD0YsBA
+          title: '優里『ドライフラワー』Official Music Video（ショートver.）'
     - title: '[紅蓮華](wiki:紅蓮華 (LiSAの曲))'
       attributes:
         - name: 'テレビアニメ'
@@ -28,6 +35,9 @@
         - name: '作曲'
           text: '[草野華余子](wiki:草野華余子)'
       description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=1080)として'
+      videos:
+        - id: CwkzK-F0Y00
+          title: 'LiSA 『紅蓮華』 -MUSiC CLiP YouTube EDIT ver.-'
     - title: '[炎](wiki:炎_(LiSAの曲))'
       attributes:
         - name: '映画'
@@ -35,7 +45,7 @@
           noSeparator: true
         - name: '作曲'
           text: '[梶浦由記](wiki:梶浦由記)'
-      description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=1530)として'
+      description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=1512)として'
       videos:
         - id: 4DxL6IKmXx4
           title: 'LiSA 『炎』 -MUSiC CLiP-'
@@ -46,12 +56,15 @@
           noSeparator: true
         - name: '作曲'
           text: '[中島みゆき](wiki:中島みゆき)'
-      description: 'ヴァイオリン演奏として'
+      description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=1899)として'
+      videos:
+        - id: 78UwqbJnI18
+          title: '糸'
     - title: '[丸ノ内サディスティック](wiki:丸ノ内サディスティック)'
       attributes:
         - name: '作曲'
           text: '[椎名林檎](wiki:椎名林檎)'
-      description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=2270)として'
+      description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=2272)として'
       videos:
         - id: i9I55MZLYYY
           title: '東京事変 - 幕ノ内サディスティック'
@@ -61,7 +74,7 @@
           text: '[水野良樹](wiki:水野良樹)'
         - name: '編曲'
           text: '[江口亮](wiki:江口亮)'
-      description: '[歌唱とヴァイオリン演奏](yt:9VTwK_r8vZA?t=2640)として'
+      description: '[歌唱とヴァイオリン演奏](yt:9VTwK_r8vZA?t=2646)として'
       videos:
         - id: 5XCSt_0lwOE
           title: 'いきものがかり 『気まぐれロマンティック』Music Video'
@@ -72,8 +85,6 @@
           noSeparator: true
         - name: '作曲'
           text: '[佐藤英敏](wiki:佐藤英敏)'
-        - name: '作詞'
-          text: '[及川眠子](wiki:及川眠子)'
       description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=2979)として'
       videos:
         - id: o6wtDPVkKqI
@@ -85,14 +96,15 @@
           noSeparator: true
         - name: '作曲'
           text: '[小諸鉄矢](wiki:吉江一男)'
-        - name: '作詞'
-          text: '[池田大介](wiki:池田大介_(編曲家))'
-      description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=3360)として'
+      description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=3355)として'
     - title: '[千本桜 feat.初音ミク](wiki:千本桜_(曲))'
       attributes:
         - name: '作曲'
           text: '[黒うさP](wiki:WhiteFlame)'
       description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=3675)として'
+      videos:
+        - id: shs0rAiwsGQ
+          title: '「ＭＶ」　千本桜　WhiteFlame feat 初音ミク'
 
 - video:
     id: K3brJGkvlQk
@@ -102,7 +114,7 @@
   shortname: 'ホリデーシーズン到来！クリスマスに聴きたいクラシックをご紹介！🎄✨'
   categories: ['純喫茶ジェネット', '楽曲解説']
   tunes:
-    - title: '[アヴェ・マリア](wiki:アヴェ・マリア (グノー)) (原曲: 平均律クラヴィーア曲集 第1巻 第1番 BWV846 前奏曲 4声のフーガ)'
+    - title: '[アヴェ・マリア](wiki:アヴェ・マリア_(グノー)) (原曲: 平均律クラヴィーア曲集 第1巻 第1番 BWV846 前奏曲 4声のフーガ)'
       originalTitle: 'Ave Maria (original: Das Wohltemperierte Klavier, Präludium und Fuge C-Dur BWV 846)'
       attributes:
         - name: 作曲
@@ -110,6 +122,15 @@
         - name: 原曲作曲
           text: '[ヨハン・ゼバスティアン・バッハ](wiki:ヨハン・ゼバスティアン・バッハ)'
       description: 'BGMとして'
+      videos:
+        - id: EzwK6FnJ0O4
+          title: 'J. S. Bach: Präludium & Fuge C-Dur, Das wohltemperierte Klavier Bd. 1 | Masako Ohta'
+        - id: hyUhEjtlDLA
+          position: 5
+          title: 'Yo-Yo Ma, Kathryn Stott - Ave Maria (J.S. Bach/ Gounod)'
+      references:
+        - link: https://imslp.org/wiki/Ave_Maria_(Gounod,_Charles)
+          title: 'Ave Maria (Gounod, Charles)'
     - title: '叙事詩「湖上の美人」より [エレンの歌第3番](wiki:エレンの歌第3番) 通称「アヴェ・マリア」'
       originalTitle: 'Ellens dritter Gesang "Ave Maria"'
       attributes:
@@ -117,37 +138,74 @@
           text: '[フランツ・シューベルト](wiki:フランツ・シューベルト)'
         - name: 原詩
           text: '[ウォルター・スコット](wiki:ウォルター・スコット)'
-      description: '[ヴァイオリン演奏](yt:K3brJGkvlQk?t=)として'
+      description: '[ヴァイオリン演奏](yt:K3brJGkvlQk?t=1149)として'
+      videos:
+        - id: XpYGgtrMTYs
+          title: 'Luciano Pavarotti - Ave Maria (Schubert)'
+      references:
+        - link: https://imslp.org/wiki/Ave_Maria_D.839_(Schubert,_Franz)
+          title: 'Ave Maria, D.839 (Schubert, Franz)'
     - title: '[メサイア](wiki:メサイア_(ヘンデル)) より ハレルヤ'
       originalTitle: "Messiah, 44. Hallelujah"
       attributes:
         - name: 作曲
           text: '[ゲオルク・フリードリヒ・ヘンデル](wiki:ゲオルク・フリードリヒ・ヘンデル)'
       description: 'BGMとして'
+      videos:
+        - id: weFJHtcxJt0
+          title: "Handel's 'Hallelujah!' Chorus live at the Sydney Opera House"
+      references:
+        - link: https://imslp.org/wiki/Messiah,_HWV_56_(Handel,_George_Frideric)
+          title: 'Messiah, HWV 56 (Handel, George Frideric)'
     - title: '合奏協奏曲 ト短調 作品6-8 「[クリスマス協奏曲](wiki:クリスマス協奏曲)」'
       originalTitle: 'Concerto grosso in G minor, Op.6, No.8 "Christmas Concerto"'
       attributes:
         - name: 作曲
           text: '[アルカンジェロ・コレッリ](wiki:アルカンジェロ・コレッリ)'
       description: 'BGM（第3楽章）として'
+      videos:
+        - id: e68h3Qwm2OA
+          position: 250
+          title: 'Corelli: Concerto grosso g-Moll op. 6 Nr. 8 (»Weihnachtskonzert«) ∙ hr-Sinfonieorchester'
+      references:
+        - link: https://imslp.org/wiki/12_Concerti_Grossi,_Op.6_(Corelli,_Arcangelo)
+          title: '12 Concerti grossi, Op.6 (Corelli, Arcangelo)'
     - title: 'オペラ「[ラ・ボエーム](wiki:ラ・ボエーム_(プッチーニ))」より「ムゼッタのワルツ」'
       originalTitle: "La Bohème, Quando me'n vo soletta per la via"
       attributes:
         - name: 作曲
           text: '[ジャコモ・プッチーニ](wiki:ジャコモ・プッチーニ)'
       description: 'BGMとして'
+      videos:
+        - id: IDvE8uKWznc
+          title: "アンナ・ネトレプコ - プッチーニ - ラ・ボエーム （La Bohème Quando m'en vo' soletta）"
+      references:
+        - link: https://imslp.org/wiki/La_Boh%C3%A8me,_SC_67_(Puccini,_Giacomo)
+          title: 'La bohème, SC 67 (Puccini, Giacomo)'
     - title: '[くるみ割り人形](wiki:くるみ割り人形) 作品71a 演奏会用組曲より 第3曲 金平糖の精の踊り'
       originalTitle: 'Щелкунчик / Danse de la Fée-Dragée'
       attributes:
         - name: 作曲
           text: '[ピョートル・チャイコフスキー](wiki:ピョートル・チャイコフスキー)'
       description: 'BGMとして'
+      videos:
+        - id: HNTsaOobbI4
+          title: "Mariinsky Orchestra & Valery Gergiev – Tchaikovsky: The Nutcracker 'Danse de la fée dragée'"
+      references:
+        - link: https://imslp.org/wiki/The_Nutcracker_(suite),_Op.71a_(Tchaikovsky,_Pyotr)
+          title: 'The Nutcracker (suite), Op.71a (Tchaikovsky, Pyotr)'
     - title: '[くるみ割り人形](wiki:くるみ割り人形) 作品71a 演奏会用組曲より 第4曲 ロシアの踊り（トレパック）'
       originalTitle: 'Щелкунчик / Danse russe (Trépak)'
       attributes:
         - name: 作曲
           text: '[ピョートル・チャイコフスキー](wiki:ピョートル・チャイコフスキー)'
       description: 'BGMとして、[ヴァイオリン演奏](yt:K3brJGkvlQk?t=3940)として'
+      videos:
+        - id: 41sgH_bbgck
+          title: 'Trepak (Russian Dance) / Pyotr Tchaikovsky / Vasily Petrenko / Oslo Philharmonic'
+      references:
+        - link: https://imslp.org/wiki/The_Nutcracker_(suite),_Op.71a_(Tchaikovsky,_Pyotr)
+          title: 'The Nutcracker (suite), Op.71a (Tchaikovsky, Pyotr)'
 
 - video:
     id: tEKAT3gLoUs

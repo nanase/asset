@@ -1,4 +1,21 @@
 - video:
+    id: QIpI05N-fYc
+    type: live
+    publishedAt: 2023/12/16 19:00
+  name: 'けものフレンズV LIVE♪ かがやきをより強く! 【 #けものフレンズVLIVE2 】'
+  shortname: 'けものフレンズV LIVE♪ かがやきをより強く!'
+  categories: ['ライブ']
+  tunes:
+    - title: '[ファッションモンスター](wiki:ファッションモンスター)'
+      attributes:
+        - name: '作曲・作詞'
+          text: '[中田ヤスタカ](wiki:中田ヤスタカ)'
+      description: 'ジョフロイネコとのデュエット、およびヴァイオリン演奏として（有料配信部分）'
+      videos:
+        - id: GivkxpAVVC4
+          title: 'きゃりーぱみゅぱみゅ - ファッションモンスター,Kyary Pamyu Pamyu Fashion Monster'
+
+- video:
     id: 9VTwK_r8vZA
     type: live
     publishedAt: 2023/12/10 20:30

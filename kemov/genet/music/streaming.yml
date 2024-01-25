@@ -1,4 +1,39 @@
 - video:
+    id: Jy8qd8aOyUY
+    type: live
+    publishedAt: 2024/01/25 19:00
+  name: '【楽曲解説】ヴィヴァルディ「四季」解説シリーズ最終章！”冬”【純喫茶ジェネット】'
+  shortname: 'ヴィヴァルディ「四季」解説シリーズ最終章！”冬”'
+  categories: ['純喫茶ジェネット', '楽曲解説']
+  tunes:
+    - title: |-
+        ヴァイオリン協奏曲集「[和声と創意の試み](wiki:和声と創意の試み)」作品8より "[四季](wiki:四季_(ヴィヴァルディ))"
+        協奏曲第4番ヘ短調 RV 297「[冬](wiki:四季_(ヴィヴァルディ)#協奏曲第4番ヘ短調_RV_297「冬」（L'Inverno）)」
+      originalTitle: "Il cimento dell'armonia e dell'inventione, Concerto Nº 4 in Fa mineur, opera 8, RV 297, \"L'Inverno\""
+      attributes:
+        - name: 作曲
+          text: '[アントニオ・ヴィヴァルディ](wiki:アントニオ・ヴィヴァルディ)'
+      description: 'BGMとして（第1楽章 Allegro non molto）、[ヴァイオリン演奏](yt:Jy8qd8aOyUY?t=2953)（第2楽章 Largo）として'
+      references:
+        - link: https://imslp.org/wiki/Il_cimento_dell%27armonia_e_dell%27inventione,_Op.8_(Vivaldi,_Antonio)
+          title: "Il cimento dell'armonia e dell'inventione, Op.8 (Vivaldi, Antonio)"
+        - link: https://imslp.org/wiki/Violin_Concerto_in_F_minor,_RV_297_(Vivaldi,_Antonio)
+          title: "Violin Concerto in F minor, RV 297 (Vivaldi, Antonio)"
+      videos:
+        - id: GVTk2HQbqqk
+          position: 1860
+          title: 'Music Chapel Festival: Giuliano Carmignola & MuCH Ensemble: VIvaldi Four seasons'
+    - title: '[白い道](wiki:白い道)'
+      attributes:
+        - name: 作曲
+          text: '[アントニオ・ヴィヴァルディ](wiki:アントニオ・ヴィヴァルディ)'
+        - name: 作詞
+          text: '海野洋司'
+        - name: 編曲
+          text: '[石川皓也](wiki:石川皓也)'
+      description: '「冬」第2楽章の派生作品として紹介'
+
+- video:
     id: QIpI05N-fYc
     type: live
     publishedAt: 2023/12/16 19:00

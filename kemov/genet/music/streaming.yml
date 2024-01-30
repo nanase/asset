@@ -1,4 +1,79 @@
 - video:
+    id: B7Aw-soBPp8
+    type: live
+    publishedAt: 2024/01/28 20:00
+  name: '【演奏配信】１か月遅れの…！クリスマス演奏会🎄🎻'
+  shortname: '１か月遅れの…！クリスマス演奏会🎄🎻'
+  categories: ['演奏配信']
+  tunes:
+    - title: '[恋人がサンタクロース](wiki:恋人がサンタクロース)'
+      attributes:
+        - name: 作詞・作曲
+          text: '[松任谷由実](wiki:松任谷由実)'
+        - name: 編曲
+          text: '[松任谷正隆](wiki:松任谷正隆)'
+      description: '[ヴァイオリン演奏](yt:B7Aw-soBPp8?t=195)として'
+    - title: '[クリスマスソング](wiki:クリスマスソング_(back_numberの曲))'
+      attributes:
+        - name: 作詞・作曲
+          text: '[清水依与吏](wiki:清水依与吏)'
+        - name: 編曲
+          text: '[back number](wiki:Back_number)、[小林武史](wiki:小林武史)'
+      description: '[ヴァイオリン演奏](yt:B7Aw-soBPp8?t=648)として'
+      videos:
+        - id: 7zBeQezaz4U
+          title: 'back number - クリスマスソング (full)'
+    - title: '[クリスマス・イブ](wiki:クリスマス・イブ_(山下達郎の曲))'
+      attributes:
+        - name: 作詞・作曲
+          text: '[山下達郎](wiki:山下達郎)'
+      description: '[ヴァイオリン演奏](yt:B7Aw-soBPp8?t=991)として'
+    - title: '[粉雪](wiki:粉雪_(レミオロメンの曲))'
+      attributes:
+        - name: 作詞・作曲
+          text: '[藤巻亮太](wiki:藤巻亮太)'
+        - name: 編曲
+          text: '[レミオロメン](wiki:レミオロメン)、[小林武史](wiki:小林武史)'
+      description: '[ヴァイオリン演奏](yt:B7Aw-soBPp8?t=1504)として'
+    - title: '[ロマンスの神様](wiki:ロマンスの神様)'
+      attributes:
+        - name: 作詞・作曲
+          text: '[広瀬香美](wiki:広瀬香美)'
+      description: '[歌唱](yt:B7Aw-soBPp8?t=1830)として'
+    - title: '[Snow halation](wiki:Snow_halation)'
+      attributes:
+        - name: 作曲
+          text: '[山田高弘](wiki:山田高弘)'
+        - name: 作詞
+          text: '[畑亜貴](wiki:畑亜貴)'
+        - name: 編曲
+          text: '[中西亮輔](wiki:中西亮輔)'
+      description: '[ヴァイオリン演奏＆歌唱](yt:B7Aw-soBPp8?t=2434)として'
+    - title: '[情熱大陸](wiki:情熱大陸#テーマ音楽)'
+      attributes:
+        - name: 作曲
+          text: '[葉加瀬太郎](wiki:葉加瀬太郎)'
+      description: '[ヴァイオリン演奏](yt:B7Aw-soBPp8?t=2848)として'
+      videos:
+        - id: 53B3ZrhfnOA
+          title: '葉加瀬太郎 情熱大陸【OFFICIAL】'
+    - title: '[交響曲第9番「合唱付き」](wiki:交響曲第9番_(ベートーヴェン)) 第4楽章「[歓喜の歌](wiki:歓喜の歌)」'
+      originalTitle: 'Sinfonie Nr. 9 D-moll, op. 125, An die Freude / Ode to Joy'
+      attributes:
+        - name: 作曲
+          text: '[ルードヴィッヒ・ヴァン・ベートーヴェン](wiki:ルートヴィヒ・ヴァン・ベートーヴェン)'
+        - name: 原詩
+          text: '[フリードリヒ・フォン・シラー](wiki:フリードリヒ・フォン・シラー)'
+      description: '[ヴァイオリン演奏](yt:B7Aw-soBPp8?t=3265)として'
+      references:
+        - link: https://imslp.org/wiki/Symphony_No.9%2C_Op.125_%28Beethoven%2C_Ludwig_van%29
+          title: 'Symphony No.9, Op.125 (Beethoven, Ludwig van)'
+      videos:
+        - id: hdWyYn0E4Ys
+          position: 771
+          title: 'Beethoven 9th Symphony - Movement IV - "Ode to Joy"'
+
+- video:
     id: Jy8qd8aOyUY
     type: live
     publishedAt: 2024/01/25 19:00

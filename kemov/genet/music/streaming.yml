@@ -1,4 +1,137 @@
 - video:
+    id: eH5KkXfOWlI
+    type: live
+    publishedAt: 2024/02/12 12:00
+  name: '縦型！ヴァイオリン演奏配信【#short #shorts】'
+  shortname: '縦型！ヴァイオリン演奏配信'
+  categories: ['純喫茶ジェネット', '演奏配信', '縦型配信']
+  tunes:
+    - title: '[Love so sweet](wiki:Love_so_sweet)'
+      attributes:
+        - name: 作曲
+          text: '[youth case](wiki:Youth_case)'
+        - name: 編曲
+          text: '[Mugen](wiki:牛田弦太)'
+      videos:
+        - id: EAgACSowE5k
+          title: '嵐 - Love so sweet [Official Music Video]'
+      description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=430)として'
+    - title: '[愛をこめて花束を](wiki:愛をこめて花束を)'
+      attributes:
+        - name: 作曲
+          text: '[多保孝一](wiki:多保孝一)'
+        - name: 編曲
+          text: '[蔦谷好位置](wiki:蔦谷好位置)'
+      videos:
+        - id: gU5oN0KVofU
+          title: 'Superfly 『愛をこめて花束を』Music Video'
+      description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=980)として'
+    - title: '[ハム太郎とっとこうた](wiki:ハム太郎とっとこうた)'
+      attributes:
+        - name: 'アニメ'
+          text: '「[とっとこハム太郎](wiki:とっとこハム太郎_(アニメ))」オープニングテーマ'
+          noSeparator: true
+        - name: '作曲・作詞'
+          text: '[河井リツ子](wiki:河井リツ子)'
+        - name: '編曲'
+          text: '[岩﨑元是](wiki:岩崎元是)'
+      description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=1459)として'
+      videos:
+        - id: Lg96zmH7D7w
+          position: 5
+          title: '【アニメ】「ハム太郎とっとこうた」　（歌：ハムちゃんず）【公式】とっとこハム太郎のオープニングテーマ曲　その１'
+    - title: '[めざせポケモンマスター](wiki:めざせポケモンマスター)'
+      attributes:
+        - name: 'アニメ'
+          text: '「[ポケットモンスター](wiki:ポケットモンスター_(1997-2002年のアニメ))」オープニングテーマ'
+          noSeparator: true
+        - name: '作曲'
+          text: '[たなかひろかず](wiki:田中宏和)'
+        - name: '編曲'
+          text: '[渡部チェル](wiki:渡部チェル)'
+      description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=1630)として'
+    - title: '[Together](wiki:Together/君のそばで_〜ヒカリのテーマ〜)'
+      attributes:
+        - name: 'アニメ'
+          text: '「[ポケットモンスター ダイヤモンド&パール](wiki:ポケットモンスター_ダイヤモンド%26パール)」オープニングテーマ'
+          noSeparator: true
+        - name: '作曲'
+          text: '[Rie](wiki:Rie)'
+        - name: '編曲'
+          text: '[市川淳](wiki:市川淳)'
+      description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=2015)として'
+    - title: '[バレンタイン・キッス](wiki:バレンタイン・キッス)'
+      attributes:
+        - name: '作曲'
+          text: '瀬井広明'
+      description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=2486)として'
+    - title: '[アゲハ蝶](wiki:アゲハ蝶)'
+      attributes:
+        - name: '作曲'
+          text: '[ak.homma](wiki:本間昭光)'
+      description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=2875)として'
+      videos:
+        - id: zQq_cgH5_AI
+          title: 'ポルノグラフィティ『アゲハ蝶』MUSIC VIDEO'
+    - title: '[気まぐれロマンティック](wiki:気まぐれロマンティック)'
+      attributes:
+        - name: '作詞・作曲'
+          text: '[水野良樹](wiki:水野良樹)'
+        - name: '編曲'
+          text: '[江口亮](wiki:江口亮)'
+      description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=3260)として'
+      videos:
+        - id: 5XCSt_0lwOE
+          title: 'いきものがかり 『気まぐれロマンティック』Music Video'
+    - title: '[風になる](wiki:風になる_(つじあやのの曲))'
+      attributes:
+        - name: 'アニメ映画'
+          text: '「[猫の恩返し](wiki:猫の恩返し)」主題歌'
+          noSeparator: true
+        - name: '作詞・作曲'
+          text: '[つじあやの](wiki:つじあやの)'
+        - name: '編曲'
+          text: '[根岸孝旨](wiki:根岸孝旨)'
+      description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=3625)として'
+    - title: '[残酷な天使のテーゼ](wiki:残酷な天使のテーゼ)'
+      attributes:
+        - name: 'アニメ'
+          text: '「[新世紀エヴァンゲリオン](wiki:新世紀エヴァンゲリオン)」オープニングテーマ'
+          noSeparator: true
+        - name: '作曲'
+          text: '[佐藤英敏](wiki:佐藤英敏)'
+      description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=4018)として'
+      videos:
+        - id: o6wtDPVkKqI
+          title: 「残酷な天使のテーゼ」MUSIC VIDEO（HDver.）/Zankoku na Tenshi no Te-ze“The Cruel Angel's Thesis”
+    - title: '[God knows…](wiki:涼宮ハルヒの詰合_〜TVアニメ「涼宮ハルヒの憂鬱」劇中歌集シングル〜#「God_knows…」)'
+      attributes:
+        - name: 'アニメ'
+          text: '「[涼宮ハルヒの憂鬱](wiki:涼宮ハルヒの憂鬱_(アニメ))」挿入曲'
+          noSeparator: true
+        - name: '作曲・編曲'
+          text: '[神前暁](wiki:神前暁)'
+        - name: '作詞'
+          text: '[畑亜貴](wiki:畑亜貴)'
+      description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=4285)として'
+    - title: '[ルパン三世のテーマ](wiki:ルパン三世のテーマ)'
+      attributes:
+        - name: 作詞・作曲
+          text: '[大野雄二](wiki:大野雄二)'
+      description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=4570)として'
+      videos:
+        - id: Kyl7fgvV1oo
+          title: "ルパン三世のテーマ'80 - You & Explosion Band | 大野雄二ベスト・ヒット・ライブ 2022.01.28 at 東京国際フォーラム ホールA"
+    - title: '[千本桜 feat.初音ミク](wiki:千本桜_(曲))'
+      attributes:
+        - name: '作曲'
+          text: '[黒うさP](wiki:WhiteFlame)'
+      description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=4815)として'
+      videos:
+        - id: shs0rAiwsGQ
+          title: '「ＭＶ」　千本桜　WhiteFlame feat 初音ミク'
+
+- video:
     id: B7Aw-soBPp8
     type: live
     publishedAt: 2024/01/28 20:00

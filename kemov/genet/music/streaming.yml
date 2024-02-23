@@ -1,4 +1,76 @@
 - video:
+    id: aB5AMKx4_0Q
+    type: live
+    publishedAt: 2024/02/23 19:00
+  name: '【楽曲豆知識】聴いたことはあるけど名前は…な、有名クラシック曲たちをご紹介！【純喫茶ジェネット】'
+  shortname: '聴いたことはあるけど名前は…な、有名クラシック曲たちをご紹介！'
+  categories: ['純喫茶ジェネット', '楽曲解説']
+  tunes:
+    - title: '[弦楽五重奏曲 G.275](wiki:弦楽五重奏曲_G.275_(ボッケリーニ)) 第3楽章 メヌエット'
+      originalTitle: 'String Quintet in E major, G.275, 3. Minuetto e Trio.'
+      attributes:
+        - name: 作曲
+          text: '[ルイジ・ボッケリーニ](wiki:ルイジ・ボッケリーニ)'
+      references:
+        - link: https://imslp.org/wiki/String_Quintet_in_E_major,_G.275_(Boccherini,_Luigi)
+          title: "String Quintet in E major, G.275 (Boccherini, Luigi)"
+      videos:
+        - id: gFFh-HRNP48
+          position: 14
+          title: 'Boccherini String Quintet in E major 3rd Movement'
+      description: 'BGMとして、[ヴァイオリン演奏](yt:aB5AMKx4_0Q?t=880)として'
+    - title: '[ツァラトゥストラはかく語りき](wiki:ツァラトゥストラはこう語った) 作品30 冒頭の導入部より'
+      originalTitle: 'Also sprach Zarathustra, Op.30'
+      attributes:
+        - name: 作曲
+          text: '[リヒャルト・シュトラウス](wiki:リヒャルト・シュトラウス)'
+      references:
+        - link: https://imslp.org/wiki/Also_sprach_Zarathustra,_Op.30_(Strauss,_Richard)
+          title: "Also sprach Zarathustra, Op.30 (Strauss, Richard)"
+      videos:
+        - id: Szdziw4tI9o
+          title: 'Strauss: Also sprach Zarathustra / Dudamel · Berliner Philharmoniker'
+      description: 'BGMとして、[ヴァイオリン演奏](yt:aB5AMKx4_0Q?t=1515)として'
+    - title: '[24の前奏曲 作品28](wiki:前奏曲_(ショパン)#24の前奏曲作品28) 第7番 イ長調'
+      originalTitle: '24 Préludes, Op.28, 7. Andantino A major'
+      attributes:
+        - name: 作曲
+          text: '[フレデリック・ショパン](wiki:フレデリック・ショパン)'
+      references:
+        - link: https://imslp.org/wiki/Preludes,_Op.28_(Chopin,_Fr%C3%A9d%C3%A9ric)
+          title: "Preludes, Op.28 (Chopin, Frédéric)"
+      videos:
+        - id: yLU4wgtpjGs
+          title: 'Chopin Prelude Op. 28 No. 7 in A major'
+      description: 'BGMとして、[ヴァイオリン演奏](yt:aB5AMKx4_0Q?t=2137)として'
+    - title: '[トッカータとフーガ ニ短調](wiki:トッカータとフーガ_ニ短調_BWV_565) BWV565'
+      originalTitle: 'Toccata and Fugue in D minor, BWV 565'
+      attributes:
+        - name: 作曲
+          text: '[ヨハン・ゼバスティアン・バッハ](wiki:ヨハン・ゼバスティアン・バッハ)'
+      references:
+        - link: https://imslp.org/wiki/Toccata_and_Fugue_in_D_minor,_BWV_565_(Bach,_Johann_Sebastian)
+          title: "Toccata and Fugue in D minor, BWV 565 (Bach, Johann Sebastian)"
+      videos:
+        - id: PEHGxpRoZQM
+          title: 'J.S. Bach -Toccata & Fugue in D-minor BWV 565 - Stephanuskerk Hasselt'
+        - id: ojBYW3ycVTE
+          title: 'BACH: Toccata and Fugue, BWV 565 by Edson Lopes'
+      description: 'BGMとして'
+    - title: '戯曲 [カヴァレリア・ルスティカーナ](wiki:カヴァレリア・ルスティカーナ) より 間奏曲'
+      originalTitle: 'Cavalleria Rusticana, No.7 Intermezzo'
+      attributes:
+        - name: 作曲
+          text: '[ピエトロ・マスカーニ](wiki:ピエトロ・マスカーニ)'
+      references:
+        - link: https://imslp.org/wiki/Cavalleria_rusticana_(Mascagni,_Pietro)
+          title: "Cavalleria rusticana (Mascagni, Pietro)"
+      videos:
+        - id: 1V9kMKS9E2o
+          title: 'マスカーニ「カヴァレリア・ルスティカーナ」より間奏曲｜オペラ・歌劇｜フルオーケストラ演奏［吉田裕史指揮］'
+      description: 'BGMとして、[ヴァイオリン演奏](yt:aB5AMKx4_0Q?t=3310)として'
+
+- video:
     id: eH5KkXfOWlI
     type: live
     publishedAt: 2024/02/12 12:00

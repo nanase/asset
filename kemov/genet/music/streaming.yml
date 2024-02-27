@@ -1,4 +1,71 @@
 - video:
+    id: Ilf1DhPhubE
+    type: live
+    publishedAt: 2024/02/27 18:15
+  name: '縦型！バイオリン生演奏配信'
+  categories: ['純喫茶ジェネット', '演奏配信', '縦型配信']
+  tunes:
+    - title: '[チェリー](wiki:チェリー_(曲))'
+      attributes:
+        - name: 作曲
+          text: '[草野正宗](wiki:草野マサムネ)'
+        - name: 編曲
+          text: '[笹路正徳](wiki:笹路正徳)、[スピッツ](wiki:スピッツ_(バンド))'
+      description: '[ヴァイオリン演奏](yt:Ilf1DhPhubE?t=510)として'
+    - title: '[怪獣の花唄](wiki:怪獣の花唄)'
+      attributes:
+        - name: 作曲・編曲
+          text: '[Vaundy](wiki:Vaundy)'
+      description: '[ヴァイオリン演奏](yt:Ilf1DhPhubE?t=1031)として'
+    - title: '[愛をこめて花束を](wiki:愛をこめて花束を)'
+      attributes:
+        - name: 作曲
+          text: '[多保孝一](wiki:多保孝一)'
+        - name: 編曲
+          text: '[蔦谷好位置](wiki:蔦谷好位置)'
+      videos:
+        - id: gU5oN0KVofU
+          title: 'Superfly 『愛をこめて花束を』Music Video'
+      description: '[ヴァイオリン演奏](yt:Ilf1DhPhubE?t=1356)として'
+    - title: '[CHE.R.RY](wiki:CHE.R.RY)'
+      attributes:
+        - name: 作曲
+          text: '[YUI](wiki:YUI_(歌手))'
+      description: '[ヴァイオリン演奏](yt:Ilf1DhPhubE?t=1795)として'
+    - title: '[晴る](wiki:晴る)'
+      attributes:
+        - name: 作曲
+          text: '[n-buna](wiki:N-buna)'
+      description: '[ヴァイオリン演奏](yt:Ilf1DhPhubE?t=2298)として'
+    - title: '[奏](wiki:奏_(曲))'
+      attributes:
+        - name: 作曲
+          text: '[スキマスイッチ](wiki:スキマスイッチ)'
+      description: '[ヴァイオリン演奏](yt:Ilf1DhPhubE?t=2592)として'
+    - title: '[夢をかなえてドラえもん](wiki:夢をかなえてドラえもん)'
+      attributes:
+        - name: 作曲
+          text: '[黒須克彦](wiki:黒須克彦)'
+        - name: 編曲
+          text: '[大久保薫](wiki:大久保薫)'
+      description: '[ヴァイオリン演奏](yt:Ilf1DhPhubE?t=3031)として'
+    - title: '[ドライフラワー](wiki:ドライフラワー_(優里の曲))'
+      attributes:
+        - name: '作曲・作詞'
+          text: '[優里](wiki:優里)'
+      description: '[ヴァイオリン演奏](yt:Ilf1DhPhubE?t=3538)として'
+      videos:
+        - id: X-YtmD0YsBA
+          title: '優里『ドライフラワー』Official Music Video（ショートver.）'
+    - title: '[春よ、来い](wiki:春よ、来い_(松任谷由実の曲))'
+      attributes:
+        - name: 作曲
+          text: '[松任谷由実](wiki:松任谷由実)'
+        - name: 編曲
+          text: '[松任谷正隆](wiki:松任谷正隆)'
+      description: '[ヴァイオリン演奏](yt:Ilf1DhPhubE?t=4007)として'
+
+- video:
     id: aB5AMKx4_0Q
     type: live
     publishedAt: 2024/02/23 19:00

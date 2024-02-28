@@ -1,4 +1,22 @@
 - video:
+    id: vJOycshNZ8U
+    type: live
+    publishedAt: 2024/02/28 12:00
+  name: '縦型！ひたすらあの名曲…演奏します'
+  categories: ['純喫茶ジェネット', '演奏配信', '縦型配信']
+  tunes:
+    - title: '[サライ](wiki:サライ_(曲))'
+      attributes:
+        - text: '[加山雄三](wiki:加山雄三)と[谷村新司](wiki:谷村新司)の楽曲、[24時間テレビ「愛は地球を救う」](wiki:24時間テレビ_「愛は地球を救う」) テーマソング'
+        - name: 作曲
+          text: '[弾厚作（加山雄三）](wiki:加山雄三)'
+        - name: 代表作詞
+          text: '[谷村新司](wiki:谷村新司)'
+        - name: 編曲
+          text: '[羽田健太郎](wiki:羽田健太郎)'
+      description: '[ヴァイオリン演奏](yt:vJOycshNZ8U?t=631)として、歌唱として'
+
+- video:
     id: Ilf1DhPhubE
     type: live
     publishedAt: 2024/02/27 18:15

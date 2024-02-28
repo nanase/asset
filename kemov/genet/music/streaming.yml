@@ -7,6 +7,7 @@
   tunes:
     - title: '[チェリー](wiki:チェリー_(曲))'
       attributes:
+        - text: '[スピッツ](wiki:スピッツ_(バンド))の楽曲'
         - name: 作曲
           text: '[草野正宗](wiki:草野マサムネ)'
         - name: 編曲
@@ -19,6 +20,7 @@
       description: '[ヴァイオリン演奏](yt:Ilf1DhPhubE?t=1031)として'
     - title: '[愛をこめて花束を](wiki:愛をこめて花束を)'
       attributes:
+        - text: '[Superfly](wiki:Superfly)の楽曲'
         - name: 作曲
           text: '[多保孝一](wiki:多保孝一)'
         - name: 編曲
@@ -34,16 +36,19 @@
       description: '[ヴァイオリン演奏](yt:Ilf1DhPhubE?t=1795)として'
     - title: '[晴る](wiki:晴る)'
       attributes:
+        - text: '[ヨルシカ](wiki:ヨルシカ)の楽曲'
         - name: 作曲
           text: '[n-buna](wiki:N-buna)'
       description: '[ヴァイオリン演奏](yt:Ilf1DhPhubE?t=2298)として'
     - title: '[奏](wiki:奏_(曲))'
       attributes:
+        - text: '[スキマスイッチ](wiki:スキマスイッチ)の楽曲'
         - name: 作曲
           text: '[スキマスイッチ](wiki:スキマスイッチ)'
       description: '[ヴァイオリン演奏](yt:Ilf1DhPhubE?t=2592)として'
     - title: '[夢をかなえてドラえもん](wiki:夢をかなえてドラえもん)'
       attributes:
+        - text: 'テレビアニメ「[ドラえもん](wiki:ドラえもん_(2005年のテレビアニメ))」主題歌'
         - name: 作曲
           text: '[黒須克彦](wiki:黒須克彦)'
         - name: 編曲
@@ -59,6 +64,7 @@
           title: '優里『ドライフラワー』Official Music Video（ショートver.）'
     - title: '[春よ、来い](wiki:春よ、来い_(松任谷由実の曲))'
       attributes:
+        - text: '[松任谷由実](wiki:松任谷由実)の楽曲'
         - name: 作曲
           text: '[松任谷由実](wiki:松任谷由実)'
         - name: 編曲
@@ -147,6 +153,7 @@
   tunes:
     - title: '[Love so sweet](wiki:Love_so_sweet)'
       attributes:
+        - text: '[嵐](wiki:嵐_(グループ))の楽曲'
         - name: 作曲
           text: '[youth case](wiki:Youth_case)'
         - name: 編曲
@@ -157,6 +164,7 @@
       description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=430)として'
     - title: '[愛をこめて花束を](wiki:愛をこめて花束を)'
       attributes:
+        - text: '[Superfly](wiki:Superfly)の楽曲'
         - name: 作曲
           text: '[多保孝一](wiki:多保孝一)'
         - name: 編曲
@@ -167,9 +175,7 @@
       description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=980)として'
     - title: '[ハム太郎とっとこうた](wiki:ハム太郎とっとこうた)'
       attributes:
-        - name: 'アニメ'
-          text: '「[とっとこハム太郎](wiki:とっとこハム太郎_(アニメ))」オープニングテーマ'
-          noSeparator: true
+        - text: 'アニメ「[とっとこハム太郎](wiki:とっとこハム太郎_(アニメ))」オープニングテーマ'
         - name: '作曲・作詞'
           text: '[河井リツ子](wiki:河井リツ子)'
         - name: '編曲'
@@ -181,9 +187,7 @@
           title: '【アニメ】「ハム太郎とっとこうた」　（歌：ハムちゃんず）【公式】とっとこハム太郎のオープニングテーマ曲　その１'
     - title: '[めざせポケモンマスター](wiki:めざせポケモンマスター)'
       attributes:
-        - name: 'アニメ'
-          text: '「[ポケットモンスター](wiki:ポケットモンスター_(1997-2002年のアニメ))」オープニングテーマ'
-          noSeparator: true
+        - text: 'アニメ「[ポケットモンスター](wiki:ポケットモンスター_(1997-2002年のアニメ))」オープニングテーマ'
         - name: '作曲'
           text: '[たなかひろかず](wiki:田中宏和)'
         - name: '編曲'
@@ -191,9 +195,7 @@
       description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=1630)として'
     - title: '[Together](wiki:Together/君のそばで_〜ヒカリのテーマ〜)'
       attributes:
-        - name: 'アニメ'
-          text: '「[ポケットモンスター ダイヤモンド&パール](wiki:ポケットモンスター_ダイヤモンド%26パール)」オープニングテーマ'
-          noSeparator: true
+        - text: 'アニメ「[ポケットモンスター ダイヤモンド&パール](wiki:ポケットモンスター_ダイヤモンド%26パール)」オープニングテーマ'
         - name: '作曲'
           text: '[Rie](wiki:Rie)'
         - name: '編曲'
@@ -201,11 +203,13 @@
       description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=2015)として'
     - title: '[バレンタイン・キッス](wiki:バレンタイン・キッス)'
       attributes:
+        - text: '[国生さゆり](wiki:国生さゆり)の楽曲'
         - name: '作曲'
           text: '瀬井広明'
       description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=2486)として'
     - title: '[アゲハ蝶](wiki:アゲハ蝶)'
       attributes:
+        - text: '[ポルノグラフィティ](wiki:ポルノグラフィティ)の楽曲'
         - name: '作曲'
           text: '[ak.homma](wiki:本間昭光)'
       description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=2875)として'
@@ -214,6 +218,7 @@
           title: 'ポルノグラフィティ『アゲハ蝶』MUSIC VIDEO'
     - title: '[気まぐれロマンティック](wiki:気まぐれロマンティック)'
       attributes:
+        - text: '[いきものがかり](wiki:いきものがかり)の楽曲'
         - name: '作詞・作曲'
           text: '[水野良樹](wiki:水野良樹)'
         - name: '編曲'
@@ -224,9 +229,7 @@
           title: 'いきものがかり 『気まぐれロマンティック』Music Video'
     - title: '[風になる](wiki:風になる_(つじあやのの曲))'
       attributes:
-        - name: 'アニメ映画'
-          text: '「[猫の恩返し](wiki:猫の恩返し)」主題歌'
-          noSeparator: true
+        - text: 'アニメ映画「[猫の恩返し](wiki:猫の恩返し)」主題歌'
         - name: '作詞・作曲'
           text: '[つじあやの](wiki:つじあやの)'
         - name: '編曲'
@@ -234,9 +237,7 @@
       description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=3625)として'
     - title: '[残酷な天使のテーゼ](wiki:残酷な天使のテーゼ)'
       attributes:
-        - name: 'アニメ'
-          text: '「[新世紀エヴァンゲリオン](wiki:新世紀エヴァンゲリオン)」オープニングテーマ'
-          noSeparator: true
+        - text: 'アニメ「[新世紀エヴァンゲリオン](wiki:新世紀エヴァンゲリオン)」オープニングテーマ'
         - name: '作曲'
           text: '[佐藤英敏](wiki:佐藤英敏)'
       description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=4018)として'
@@ -245,9 +246,7 @@
           title: 「残酷な天使のテーゼ」MUSIC VIDEO（HDver.）/Zankoku na Tenshi no Te-ze“The Cruel Angel's Thesis”
     - title: '[God knows…](wiki:涼宮ハルヒの詰合_〜TVアニメ「涼宮ハルヒの憂鬱」劇中歌集シングル〜#「God_knows…」)'
       attributes:
-        - name: 'アニメ'
-          text: '「[涼宮ハルヒの憂鬱](wiki:涼宮ハルヒの憂鬱_(アニメ))」挿入曲'
-          noSeparator: true
+        - text: 'アニメ「[涼宮ハルヒの憂鬱](wiki:涼宮ハルヒの憂鬱_(アニメ))」挿入曲'
         - name: '作曲・編曲'
           text: '[神前暁](wiki:神前暁)'
         - name: '作詞'
@@ -255,6 +254,7 @@
       description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=4285)として'
     - title: '[ルパン三世のテーマ](wiki:ルパン三世のテーマ)'
       attributes:
+        - text: 'アニメ「[ルパン三世](wiki:ルパン三世_(TV第2シリーズ))」主題曲'
         - name: 作詞・作曲
           text: '[大野雄二](wiki:大野雄二)'
       description: '[ヴァイオリン演奏](yt:eH5KkXfOWlI?t=4570)として'
@@ -280,6 +280,7 @@
   tunes:
     - title: '[恋人がサンタクロース](wiki:恋人がサンタクロース)'
       attributes:
+        - text: '[松任谷由実](wiki:松任谷由実)の楽曲'
         - name: 作詞・作曲
           text: '[松任谷由実](wiki:松任谷由実)'
         - name: 編曲
@@ -287,6 +288,7 @@
       description: '[ヴァイオリン演奏](yt:B7Aw-soBPp8?t=195)として'
     - title: '[クリスマスソング](wiki:クリスマスソング_(back_numberの曲))'
       attributes:
+        - text: '[back number](wiki:Back_number)の楽曲'
         - name: 作詞・作曲
           text: '[清水依与吏](wiki:清水依与吏)'
         - name: 編曲
@@ -302,6 +304,7 @@
       description: '[ヴァイオリン演奏](yt:B7Aw-soBPp8?t=991)として'
     - title: '[粉雪](wiki:粉雪_(レミオロメンの曲))'
       attributes:
+        - text: '[レミオロメン](wiki:レミオロメン)の楽曲'
         - name: 作詞・作曲
           text: '[藤巻亮太](wiki:藤巻亮太)'
         - name: 編曲
@@ -314,6 +317,7 @@
       description: '[歌唱](yt:B7Aw-soBPp8?t=1830)として'
     - title: '[Snow halation](wiki:Snow_halation)'
       attributes:
+        - text: "[μ's](wiki:Μ%27s)の楽曲"
         - name: 作曲
           text: '[山田高弘](wiki:山田高弘)'
         - name: 作詞
@@ -372,6 +376,7 @@
           title: 'Music Chapel Festival: Giuliano Carmignola & MuCH Ensemble: VIvaldi Four seasons'
     - title: '[白い道](wiki:白い道)'
       attributes:
+        - text: '歌番組「[みんなのうた](wiki:みんなのうた)」放送曲'
         - name: 作曲
           text: '[アントニオ・ヴィヴァルディ](wiki:アントニオ・ヴィヴァルディ)'
         - name: 作詞
@@ -390,6 +395,7 @@
   tunes:
     - title: '[ファッションモンスター](wiki:ファッションモンスター)'
       attributes:
+        - text: '[きゃりーぱみゅぱみゅ](wiki:きゃりーぱみゅぱみゅ)の楽曲'
         - name: '作曲・作詞'
           text: '[中田ヤスタカ](wiki:中田ヤスタカ)'
       description: 'ジョフロイネコとのデュエット、およびヴァイオリン演奏として（有料配信部分）'
@@ -406,9 +412,7 @@
   tunes:
     - title: '[ハム太郎とっとこうた](wiki:ハム太郎とっとこうた)'
       attributes:
-        - name: 'アニメ'
-          text: '「[とっとこハム太郎](wiki:とっとこハム太郎_(アニメ))」オープニングテーマ'
-          noSeparator: true
+        - text: 'アニメ「[とっとこハム太郎](wiki:とっとこハム太郎_(アニメ))」オープニングテーマ'
         - name: '作曲・作詞'
           text: '[河井リツ子](wiki:河井リツ子)'
         - name: '編曲'
@@ -428,9 +432,7 @@
           title: '優里『ドライフラワー』Official Music Video（ショートver.）'
     - title: '[紅蓮華](wiki:紅蓮華 (LiSAの曲))'
       attributes:
-        - name: 'テレビアニメ'
-          text: '「[鬼滅の刃](wiki:鬼滅の刃_(アニメ))」オープニングテーマ'
-          noSeparator: true
+        - text: 'テレビアニメ「[鬼滅の刃](wiki:鬼滅の刃_(アニメ))」オープニングテーマ'
         - name: '作曲'
           text: '[草野華余子](wiki:草野華余子)'
       description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=1080)として'
@@ -439,9 +441,7 @@
           title: 'LiSA 『紅蓮華』 -MUSiC CLiP YouTube EDIT ver.-'
     - title: '[炎](wiki:炎_(LiSAの曲))'
       attributes:
-        - name: '映画'
-          text: '「[劇場版 鬼滅の刃 無限列車編](wiki:劇場版_鬼滅の刃_無限列車編)」主題歌'
-          noSeparator: true
+        - text: '映画「[劇場版 鬼滅の刃 無限列車編](wiki:劇場版_鬼滅の刃_無限列車編)」主題歌'
         - name: '作曲'
           text: '[梶浦由記](wiki:梶浦由記)'
       description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=1512)として'
@@ -450,9 +450,7 @@
           title: 'LiSA 『炎』 -MUSiC CLiP-'
     - title: '[糸](wiki:命の別名/糸)'
       attributes:
-        - name: 'テレビドラマ'
-          text: '「[聖者の行進](wiki:聖者の行進_(テレビドラマ))」主題歌'
-          noSeparator: true
+        - text: 'テレビドラマ「[聖者の行進](wiki:聖者の行進_(テレビドラマ))」主題歌'
         - name: '作曲'
           text: '[中島みゆき](wiki:中島みゆき)'
       description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=1899)として'
@@ -469,6 +467,7 @@
           title: '東京事変 - 幕ノ内サディスティック'
     - title: '[気まぐれロマンティック](wiki:気まぐれロマンティック)'
       attributes:
+        - text: '[いきものがかり](wiki:いきものがかり)の楽曲'
         - name: '作詞・作曲'
           text: '[水野良樹](wiki:水野良樹)'
         - name: '編曲'
@@ -479,9 +478,7 @@
           title: 'いきものがかり 『気まぐれロマンティック』Music Video'
     - title: '[残酷な天使のテーゼ](wiki:残酷な天使のテーゼ)'
       attributes:
-        - name: 'アニメ'
-          text: '「[新世紀エヴァンゲリオン](wiki:新世紀エヴァンゲリオン)」オープニングテーマ'
-          noSeparator: true
+        - text: 'アニメ「[新世紀エヴァンゲリオン](wiki:新世紀エヴァンゲリオン)」オープニングテーマ'
         - name: '作曲'
           text: '[佐藤英敏](wiki:佐藤英敏)'
       description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=2979)として'
@@ -490,9 +487,7 @@
           title: 「残酷な天使のテーゼ」MUSIC VIDEO（HDver.）/Zankoku na Tenshi no Te-ze“The Cruel Angel's Thesis”
     - title: '[ムーンライト伝説](wiki:ムーンライト伝説/HEART_MOVING)'
       attributes:
-        - name: 'アニメ'
-          text: '「[美少女戦士セーラームーン](wiki:美少女戦士セーラームーン_(テレビアニメ))」オープニングテーマ'
-          noSeparator: true
+        - text: 'アニメ「[美少女戦士セーラームーン](wiki:美少女戦士セーラームーン_(テレビアニメ))」オープニングテーマ'
         - name: '作曲'
           text: '[小諸鉄矢](wiki:吉江一男)'
       description: '[ヴァイオリン演奏](yt:9VTwK_r8vZA?t=3355)として'
@@ -652,6 +647,7 @@
           title: "Lohengrin, WWV 75 (Wagner, Richard)"
     - title: '[ようこそジャパリパークへ](wiki:ようこそジャパリパークへ)'
       attributes:
+        - text: 'アニメ「[けものフレンズ](wiki:けものフレンズ_(アニメ))」オープニングテーマ'
         - name: 作曲
           text: '[大石昌良](wiki:大石昌良)'
       description: '[ヴァイオリン演奏](yt:lm8MgKoPuC0?t=4414)として'
@@ -698,9 +694,7 @@
     - title: '[メリー・クリスマス ミスターローレンス](wiki:戦場のメリークリスマス_(サウンドトラック)#収録曲)'
       originalTitle: 'Merry Christmas Mr. Lawrence'
       attributes:
-        - name: '映画'
-          text: '「[戦場のメリークリスマス](wiki:戦場のメリークリスマス)」挿入曲'
-          noSeparator: true
+        - text: '映画「[戦場のメリークリスマス](wiki:戦場のメリークリスマス)」挿入曲'
         - name: 作曲
           text: '[坂本龍一](wiki:坂本龍一)'
       description: '[ヴァイオリン演奏](yt:BynViF37mV8?t=404)として'
@@ -709,9 +703,7 @@
           title: 'Ryuichi Sakamoto - Merry Christmas, Mr. Lawrence'
     - title: '[いつも何度でも](wiki:いつも何度でも/いのちの名前)'
       attributes:
-        - name: '映画'
-          text: '「[千と千尋の神隠し](wiki:千と千尋の神隠し)」主題歌'
-          noSeparator: true
+        - text: '映画「[千と千尋の神隠し](wiki:千と千尋の神隠し)」主題歌'
         - name: 作曲
           text: '[木村弓](wiki:木村弓)'
         - name: 作詞
@@ -727,6 +719,7 @@
   tunes:
     - title: '[津軽海峡・冬景色](wiki:津軽海峡・冬景色)'
       attributes:
+        - text: '[石川さゆり](wiki:石川さゆり)の楽曲'
         - name: 作曲・編曲
           text: '[三木たかし](wiki:三木たかし)'
         - name: 作詞
@@ -734,6 +727,7 @@
       description: '[ヴァイオリン演奏](yt:VUQDFxsQi0E?t=1148)として'
     - title: '[夢見る少女じゃいられない](wiki:夢見る少女じゃいられない)'
       attributes:
+        - text: '[相川七瀬](wiki:相川七瀬)の楽曲'
         - name: 作詞・作曲・編曲
           text: '[織田哲郎](wiki:織田哲郎)'
       description: '[ヴァイオリン演奏](yt:VUQDFxsQi0E?t=2442)として'
@@ -795,6 +789,7 @@
           title: '夕焼小焼【神戸市混声合唱団・東京混声合唱団／指揮：山田和樹】'
     - title: '[にんげんっていいな](wiki:まんが日本昔ばなし#エンディングテーマ)'
       attributes:
+        - text: 'アニメ「[まんが日本昔ばなし](wiki:まんが日本昔ばなし)」エンディングテーマ'
         - name: 作曲
           text: '[小林亜星](wiki:小林亜星)'
         - name: 作詞
@@ -879,9 +874,7 @@
   tunes:
     - title: '[ハム太郎とっとこうた](wiki:ハム太郎とっとこうた)'
       attributes:
-        - name: 'アニメ'
-          text: '「[とっとこハム太郎](wiki:とっとこハム太郎_(アニメ))」オープニングテーマ'
-          noSeparator: true
+        - text: 'アニメ「[とっとこハム太郎](wiki:とっとこハム太郎_(アニメ))」オープニングテーマ'
         - name: '作曲・作詞'
           text: '[河井リツ子](wiki:河井リツ子)'
         - name: '編曲'
@@ -893,9 +886,7 @@
           title: '【アニメ】「ハム太郎とっとこうた」　（歌：ハムちゃんず）【公式】とっとこハム太郎のオープニングテーマ曲　その１'
     - title: '[めざせポケモンマスター](wiki:めざせポケモンマスター)'
       attributes:
-        - name: 'アニメ'
-          text: '「[ポケットモンスター](wiki:ポケットモンスター_(1997-2002年のアニメ))」オープニングテーマ'
-          noSeparator: true
+        - text: 'アニメ「[ポケットモンスター](wiki:ポケットモンスター_(1997-2002年のアニメ))」オープニングテーマ'
         - name: '作曲'
           text: '[たなかひろかず](wiki:田中宏和)'
         - name: '作詞'
@@ -905,9 +896,7 @@
       description: '[ヴァイオリン演奏](yt:9pkRRV8awuM?t=278)として'
     - title: '[炎](wiki:炎_(LiSAの曲))'
       attributes:
-        - name: '映画'
-          text: '「[劇場版 鬼滅の刃 無限列車編](wiki:劇場版_鬼滅の刃_無限列車編)」主題歌'
-          noSeparator: true
+        - text: '映画「[劇場版 鬼滅の刃 無限列車編](wiki:劇場版_鬼滅の刃_無限列車編)」主題歌'
         - name: '作曲'
           text: '[梶浦由記](wiki:梶浦由記)'
         - name: '作詞'
@@ -918,6 +907,7 @@
           title: 'LiSA 『炎』 -MUSiC CLiP-'
     - title: '[Pretender](wiki:Pretender (Official髭男dismの曲))'
       attributes:
+        - text: '[Official髭男dism](wiki:Official髭男dism)の楽曲'
         - name: '作曲・作詞'
           text: '[藤原聡](wiki:藤原聡)'
       description: '[ヴァイオリン演奏](yt:9pkRRV8awuM?t=920)として'
@@ -926,9 +916,7 @@
           title: 'Official髭男dism - Pretender［Official Video］'
     - title: '[God knows…](wiki:涼宮ハルヒの詰合_〜TVアニメ「涼宮ハルヒの憂鬱」劇中歌集シングル〜#「God_knows…」)'
       attributes:
-        - name: 'アニメ'
-          text: '「[涼宮ハルヒの憂鬱](wiki:涼宮ハルヒの憂鬱_(アニメ))」挿入曲'
-          noSeparator: true
+        - text: 'アニメ「[涼宮ハルヒの憂鬱](wiki:涼宮ハルヒの憂鬱_(アニメ))」挿入曲'
         - name: '作曲・編曲'
           text: '[神前暁](wiki:神前暁)'
         - name: '作詞'
@@ -936,9 +924,7 @@
       description: '[歌唱](yt:9pkRRV8awuM?t=1333)として'
     - title: '[残酷な天使のテーゼ](wiki:残酷な天使のテーゼ)'
       attributes:
-        - name: 'アニメ'
-          text: '「[新世紀エヴァンゲリオン](wiki:新世紀エヴァンゲリオン)」オープニングテーマ'
-          noSeparator: true
+        - text: 'アニメ「[新世紀エヴァンゲリオン](wiki:新世紀エヴァンゲリオン)」オープニングテーマ'
         - name: '作曲'
           text: '[佐藤英敏](wiki:佐藤英敏)'
         - name: '作詞'
@@ -957,6 +943,7 @@
           title: '東京事変 - 幕ノ内サディスティック'
     - title: '[マリーゴールド](wiki:マリーゴールド_(あいみょんの曲))'
       attributes:
+        - text: '[あいみょん](wiki:あいみょん)の楽曲'
         - name: '作詞・作曲'
           text: '[あいみょん](wiki:あいみょん)'
         - name: '編曲'
@@ -967,6 +954,7 @@
           title: 'あいみょん - マリーゴールド【OFFICIAL MUSIC VIDEO】'
     - title: '[気まぐれロマンティック](wiki:気まぐれロマンティック)'
       attributes:
+        - text: '[いきものがかり](wiki:いきものがかり)の楽曲'
         - name: '作詞・作曲'
           text: '[水野良樹](wiki:水野良樹)'
         - name: '編曲'
@@ -977,9 +965,7 @@
           title: 'いきものがかり 『気まぐれロマンティック』Music Video'
     - title: '[Together](wiki:Together/君のそばで_〜ヒカリのテーマ〜)'
       attributes:
-        - name: 'アニメ'
-          text: '「[ポケットモンスター ダイヤモンド&パール](wiki:ポケットモンスター_ダイヤモンド%26パール)」オープニングテーマ'
-          noSeparator: true
+        - text: 'アニメ「[ポケットモンスター ダイヤモンド&パール](wiki:ポケットモンスター_ダイヤモンド%26パール)」オープニングテーマ'
         - name: '作曲'
           text: '[Rie](wiki:Rie)'
         - name: '作詞'

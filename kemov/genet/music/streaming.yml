@@ -1,4 +1,25 @@
 - video:
+    id: n4-sW7M0NSA
+    type: live
+    publishedAt: 2024/03/01 19:00
+  name: '【記念日配信】デビュー1.5周年！純喫茶ジェネットの歴史を振り返ります'
+  shortname: 'デビュー1.5周年！純喫茶ジェネットの歴史を振り返ります'
+  categories: ['記念配信']
+  tunes:
+    - title: '[3つのヴァイオリンと通奏低音のためのカノンとジーグ ニ長調](wiki:カノン_(パッヘルベル)) より「[カノン](wiki:カノン_(パッヘルベル)#カノン)」'
+      originalTitle: 'Kanon und Gigue für drei Violinen und Basso Continuo, P.37, No.1 Kanon'
+      attributes:
+        - name: 作曲
+          text: '[ヨハン・パッヘルベル](wiki:ヨハン・パッヘルベル)'
+      videos:
+        - id: aUYnc8kA1X4
+          title: '【耐久配信】【生演奏】#弾くんだジェネット ！登録者３０００人超えるまでヴァイオリン弾き続ける配信【#けもV #じぇねったいむっ】'
+      references:
+        - link: https://imslp.org/wiki/Canon_and_Gigue_in_D_major,_P.37_(Pachelbel,_Johann)
+          title: 'Canon and Gigue in D major, P.37 (Pachelbel, Johann)'
+      description: '[ヴァイオリン演奏](yt:n4-sW7M0NSA?t=3419)として'
+
+- video:
     id: vJOycshNZ8U
     type: live
     publishedAt: 2024/02/28 12:00

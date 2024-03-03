@@ -1,4 +1,97 @@
 - video:
+    id: zCgyp49C38Y
+    type: live
+    publishedAt: 2024/03/03 12:00
+  name: '縦型！お歌練習配信'
+  categories: ['歌枠配信', '縦型配信']
+  tunes:
+    - title: '[ヨドバシカメラの歌](wiki:ヨドバシカメラ#ヨドバシカメラの歌)（原曲: [リパブリック讃歌](wiki:リパブリック讃歌)）'
+      originalTitle: 'The Battle Hymn of the Republic'
+      attributes:
+        - name: '原曲作曲'
+          text: '[ウィリアム・ステッフ](wiki:ウィリアム・ステッフ)'
+      videos:
+        - id: NlrB4l0CeMA
+          title: 'ヨドバシカメラの歌 博多'
+      description: '[歌唱](yt:zCgyp49C38Y?t=392)として'
+    - title: '[CHE.R.RY](wiki:CHE.R.RY)'
+      attributes:
+        - name: 作詞・作曲
+          text: '[YUI](wiki:YUI_(歌手))'
+      videos:
+        - id: q57rZgurLHw
+          title: 'YUI　『CHE.R.RY-short ver.-』'
+      description: '[歌唱](yt:zCgyp49C38Y?t=676)として'
+    - title: '[Diamonds](wiki:Diamonds_(プリンセス_プリンセスの曲))'
+      attributes:
+        - text: '[プリンセス プリンセス](wiki:プリンセス_プリンセス)の楽曲'
+        - name: 作曲
+          text: '[奥居香](wiki:岸谷香)'
+        - name: 作詞
+          text: '[中山加奈子](wiki:中山加奈子)'
+      description: '[歌唱](yt:zCgyp49C38Y?t=1078)として'
+    - title: '[丸ノ内サディスティック](wiki:丸ノ内サディスティック)'
+      attributes:
+        - name: '作詞・作曲'
+          text: '[椎名林檎](wiki:椎名林檎)'
+      description: '[歌唱](yt:zCgyp49C38Y?t=1438)として'
+      videos:
+        - id: i9I55MZLYYY
+          title: '東京事変 - 幕ノ内サディスティック'
+    - title: '[ファッションモンスター](wiki:ファッションモンスター)'
+      attributes:
+        - text: '[きゃりーぱみゅぱみゅ](wiki:きゃりーぱみゅぱみゅ)の楽曲'
+        - name: '作曲・作詞'
+          text: '[中田ヤスタカ](wiki:中田ヤスタカ)'
+      description: '[歌唱](yt:zCgyp49C38Y?t=1976)として'
+      videos:
+        - id: GivkxpAVVC4
+          title: 'きゃりーぱみゅぱみゅ - ファッションモンスター,Kyary Pamyu Pamyu Fashion Monster'
+    - title: '[初恋サイダー](wiki:初恋サイダー/DEEP_MIND)'
+      attributes:
+        - text: '[Buono!](wiki:Buono!)の楽曲'
+        - name: '作曲'
+          text: '[しほり](wiki:しほり)'
+        - name: '作詞'
+          text: '[NOBE](wiki:NOBE)'
+        - name: '編曲'
+          text: '[宮永治郎](wiki:宮永治郎)'
+      description: '[歌唱](yt:zCgyp49C38Y?t=2495)として'
+      videos:
+        - id: JmTA0mPjnwE
+          title: 'Buono! 『初恋サイダー』 (MV)'
+    - title: '[君の知らない物語](wiki:君の知らない物語)'
+      attributes:
+        - text: '[supercell](wiki:Supercell_(クリエイター集団))の楽曲、アニメ「[化物語](wiki:化物語)」エンディングテーマ'
+        - name: '作詞・作曲'
+          text: 'ryo'
+      description: '[歌唱](yt:zCgyp49C38Y?t=2986)として'
+    - title: '[透明人間](wiki:大人_(アダルト))'
+      attributes:
+        - text: '[東京事変](wiki:東京事変)の楽曲'
+        - name: '作曲'
+          text: '[亀田誠治](wiki:亀田誠治)'
+        - name: '作詞'
+          text: '[東京事変](wiki:東京事変)'
+      description: '[歌唱](yt:zCgyp49C38Y?t=3376)として'
+    - title: 'ファンサ'
+      attributes:
+        - text: '[mona](wiki:HoneyWorks#mona)（CV：[夏川椎菜](wiki:夏川椎菜)）の楽曲'
+        - name: '作詞・作曲・編曲'
+          text: '[HoneyWorks](wiki:HoneyWorks)'
+      videos:
+        - id: lzyDD8bMDKs
+          title: '【MV】ファンサ／mona(CV：夏川椎菜)【HoneyWorks】'
+      description: '[歌唱](yt:zCgyp49C38Y?t=3871)として'
+    - title: '[うれしいひなまつり](wiki:うれしいひなまつり)'
+      attributes:
+        - name: '作曲'
+          text: '[河村光陽](wiki:河村光陽)'
+        - name: '作詞'
+          text: '[山野三郎](wiki:サトウハチロー)'
+      description: '[歌唱](yt:zCgyp49C38Y?t=4282)として'
+
+- video:
     id: n4-sW7M0NSA
     type: live
     publishedAt: 2024/03/01 19:00

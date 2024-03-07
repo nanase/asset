@@ -1,4 +1,25 @@
 - video:
+    id: LCQdaYmyP9Q
+    type: live
+    publishedAt: 2024/03/07 12:00
+  name: '【楽曲解説】本日誕生日！ラヴェルの「ボレロ」聴けば聴くほど異常な曲だった…！？【純喫茶ジェネット】'
+  shortname: '本日誕生日！ラヴェルの「ボレロ」聴けば聴くほど異常な曲だった…！？'
+  categories: ['純喫茶ジェネット', '楽曲解説']
+  tunes:
+    - title: '[ボレロ](wiki:ボレロ_(ラヴェル))'
+      originalTitle: 'Boléro'
+      attributes:
+        - name: 作曲
+          text: '[モーリス・ラヴェル](wiki:モーリス・ラヴェル)'
+      description: 'BGMとして、ヴァイオリン演奏（[Aパート](yt:LCQdaYmyP9Q?t=2889)、[Bパート](yt:LCQdaYmyP9Q?t=2990)）として'
+      references:
+        - link: https://imslp.org/wiki/Bol%C3%A9ro_(Ravel,_Maurice)
+          title: 'Boléro (Ravel, Maurice)'
+      videos:
+        - id: cmNEvSFWftc
+          title: 'モーリス・ラヴェル：ボレロ｜アロンドラ・デ・ラ・パーラ｜WDR交響楽団'
+
+- video:
     id: zCgyp49C38Y
     type: live
     publishedAt: 2024/03/03 12:00

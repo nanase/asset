@@ -1,4 +1,27 @@
 - video:
+    id: Gt3fN3f04ss
+    type: live
+    publishedAt: 2024/03/22 12:00
+  name: '【雑談】ジェネットの友達探し！～初見さん！はじめましてジェネットでし！～＃19'
+  shortname: 'ジェネットの友達探し！～初見さん！はじめましてジェネットでし！～＃19'
+  categories: ['雑談配信', '縦型配信', 'ジェネットの友達探し']
+  tunes:
+    - title: '[花](wiki:花_(瀧廉太郎))'
+      attributes:
+        - name: 作曲
+          text: '[瀧廉太郎](wiki:瀧廉太郎)'
+        - name: 作詞
+          text: '[武島羽衣](wiki:武島羽衣)'
+      description: '[ヴァイオリン演奏](yt:Gt3fN3f04ss?t=2408)として'
+    - title: '[めだかの学校](wiki:めだかの学校)'
+      attributes:
+        - name: 作曲
+          text: '[中田喜直](wiki:中田喜直)'
+        - name: 作詞
+          text: '[茶木滋](wiki:茶木滋)'
+      description: '[ヴァイオリン演奏](yt:Gt3fN3f04ss?t=3251)として'
+
+- video:
     id: LCQdaYmyP9Q
     type: live
     publishedAt: 2024/03/07 12:00

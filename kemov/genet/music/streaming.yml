@@ -1,4 +1,83 @@
 - video:
+    id: S-AnVxkUfZc
+    type: live
+    publishedAt: 2024/04/17 19:00
+  name: '【生演奏】春曲！ヴァイオリンで演奏しちゃうよ🌸【 #けもV #じぇねったいむっ 】'
+  shortname: '【生演奏】春曲！ヴァイオリンで演奏しちゃうよ🌸'
+  categories: ['純喫茶ジェネット', '演奏配信']
+  tunes:
+    - title: '[赤いスイートピー](wiki:赤いスイートピー)'
+      attributes:
+        - text: '[松田聖子](wiki:松田聖子)の楽曲'
+        - name: 作曲
+          text: '[呉田軽穂](wiki:呉田軽穂)'
+        - name: 作詞
+          text: '[松本隆](wiki:松本隆)'
+      description: '[ヴァイオリン演奏](yt:S-AnVxkUfZc?t=525)として'
+    - title: '[さくら](wiki:さくら_(森山直太朗の曲))'
+      attributes:
+        - name: 作曲
+          text: '[森山直太朗](wiki:森山直太朗)'
+        - name: 作詞
+          text: '[森山直太朗](wiki:森山直太朗)、[御徒町凧](wiki:御徒町凧)'
+        - name: 編曲
+          text: '[中村タイチ](wiki:中村タイチ)'
+      description: '[ヴァイオリン演奏](yt:S-AnVxkUfZc?t=902)として'
+    - title: '[アゲハ蝶](wiki:アゲハ蝶)'
+      attributes:
+        - text: '[ポルノグラフィティ](wiki:ポルノグラフィティ)の楽曲'
+        - name: 作曲・編曲
+          text: '[ak.homma](wiki:本間昭光)'
+        - name: 作詞
+          text: '[ハルイチ](wiki:新藤晴一)'
+      description: '[ヴァイオリン演奏](yt:S-AnVxkUfZc?t=1403)として'
+    - title: '[春一番](wiki:春一番 (キャンディーズの曲))'
+      attributes:
+        - text: '[キャンディーズ](wiki:キャンディーズ)の楽曲'
+        - name: 作曲・作詞・編曲
+          text: '[穂口雄右](wiki:穂口雄右)'
+      description: '[歌唱](yt:S-AnVxkUfZc?t=1923)として'
+    - title: '[春よ、来い](wiki:春よ、来い_(松任谷由実の曲))'
+      attributes:
+        - name: 作曲・作詞
+          text: '[松任谷由実](wiki:松任谷由実)'
+        - name: 編曲
+          text: '[松任谷正隆](wiki:松任谷正隆)'
+      description: '[ヴァイオリン演奏](yt:S-AnVxkUfZc?t=2367)として'
+    - title: '[世界に一つだけの花](wiki:世界に一つだけの花)'
+      attributes:
+        - text: '[SMAP](wiki:SMAP)の楽曲'
+        - name: 作曲・作詞・編曲
+          text: '[槇原敬之](wiki:槇原敬之)'
+      description: '[ヴァイオリン演奏](yt:S-AnVxkUfZc?t=2793)として'
+    - title: '[群青日和](wiki:群青日和)'
+      attributes:
+        - text: '[東京事変](wiki:東京事変)の楽曲'
+        - name: 作曲
+          text: '[H是都M](wiki:H_ZETT_M)'
+        - name: 作詞
+          text: '[椎名林檎](wiki:椎名林檎)'
+      description: '[歌唱](yt:S-AnVxkUfZc?t=3640)として'
+    - title: '[千本桜 feat.初音ミク](wiki:千本桜_(曲))'
+      attributes:
+        - name: '作詞・作曲'
+          text: '[黒うさP](wiki:WhiteFlame)'
+      description: '[ヴァイオリン演奏](yt:S-AnVxkUfZc?t=4000)として'
+      videos:
+        - id: shs0rAiwsGQ
+          title: '「ＭＶ」　千本桜　WhiteFlame feat 初音ミク'
+    - title: '[透明人間](wiki:大人_(アダルト))'
+      attributes:
+        - text: '[東京事変](wiki:東京事変)の楽曲'
+        - name: 作曲
+          text: '[亀田誠治](wiki:亀田誠治)'
+        - name: 作詞
+          text: '[椎名林檎](wiki:椎名林檎)'
+        - name: 編曲
+          text: '[東京事変](wiki:東京事変)'
+      description: '[ヴァイオリン演奏](yt:S-AnVxkUfZc?t=4750)として'
+
+- video:
     id: lFTYuLwmLiw
     type: live
     publishedAt: 2024/04/06 18:30

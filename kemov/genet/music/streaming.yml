@@ -1,4 +1,42 @@
 - video:
+    id: lFTYuLwmLiw
+    type: live
+    publishedAt: 2024/04/06 18:30
+  name: '【雑談】ジェネットの友達探し！～初見さん！はじめまして、ジェネットともうしまし！～＃20'
+  shortname: 'ジェネットの友達探し！～初見さん！はじめまして、ジェネットともうしまし！～＃20'
+  categories: ['雑談配信', '縦型配信', 'ジェネットの友達探し']
+  tunes:
+    - title: '[さくら](wiki:さくら_(森山直太朗の曲))'
+      attributes:
+        - name: 作曲
+          text: '[森山直太朗](wiki:森山直太朗)'
+        - name: 作詞
+          text: '[森山直太朗](wiki:森山直太朗)、[御徒町凧](wiki:御徒町凧)'
+        - name: 編曲
+          text: '[中村タイチ](wiki:中村タイチ)'
+      description: '[ヴァイオリン演奏](yt:lFTYuLwmLiw?t=965)として'
+    - title: '[さくらさくら](wiki:さくらさくら)'
+      attributes:
+        - name: 作曲
+          text: '不明'
+      description: '[ヴァイオリン演奏](yt:lFTYuLwmLiw?t=1418)として'
+    - title: '[千本桜 feat.初音ミク](wiki:千本桜_(曲))'
+      attributes:
+        - name: '作詞・作曲'
+          text: '[黒うさP](wiki:WhiteFlame)'
+      description: '[ヴァイオリン演奏](yt:lFTYuLwmLiw?t=1810)として'
+      videos:
+        - id: shs0rAiwsGQ
+          title: '「ＭＶ」　千本桜　WhiteFlame feat 初音ミク'
+    - title: '[SAKURA](wiki:SAKURA_(いきものがかりの曲))'
+      attributes:
+        - name: '作曲・作詞'
+          text: '[水野良樹](wiki:水野良樹)'
+        - name: '編曲'
+          text: '[島田昌典](wiki:島田昌典)'
+      description: '[ヴァイオリン演奏](yt:lFTYuLwmLiw?t=3055)として'
+
+- video:
     id: Gt3fN3f04ss
     type: live
     publishedAt: 2024/03/22 12:00

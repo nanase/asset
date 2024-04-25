@@ -1,4 +1,41 @@
 - video:
+    id: 0fKOJlqCf04
+    type: live
+    publishedAt: 2024/04/25 12:00
+  name: '【雑談】ジェネットの友達探し！～初見さん！ぜひお友達に！～＃21'
+  shortname: 'ジェネットの友達探し！～初見さん！ぜひお友達に！～＃21'
+  categories: ['雑談配信', '縦型配信', 'ジェネットの友達探し']
+  tunes:
+    - title: '[アイネ・クライネ・ナハトムジーク](wiki:アイネ・クライネ・ナハトムジーク) K. 525'
+      originalTitle: 'Eine kleine Nachtmusik, K.525'
+      attributes:
+        - name: 作曲
+          text: '[ヴォルフガング・アマデウス・モーツァルト](wiki:ヴォルフガング・アマデウス・モーツァルト)'
+      description: '[ヴァイオリン演奏](yt:0fKOJlqCf04?t=527)として'
+      references:
+        - link: https://imslp.org/wiki/Eine_kleine_Nachtmusik,_K.525_(Mozart,_Wolfgang_Amadeus)
+          title: 'Eine kleine Nachtmusik, K.525 (Mozart, Wolfgang Amadeus)'
+    - title: '[フーガ ト短調](wiki:フーガ_BWV578) BWV578 「小フーガ」'
+      originalTitle: 'Fugue in G minor, BWV 578'
+      attributes:
+        - name: 作曲
+          text: '[ヨハン・ゼバスティアン・バッハ](wiki:ヨハン・ゼバスティアン・バッハ)'
+      description: '[ヴァイオリン演奏](yt:0fKOJlqCf04?t=673)として'
+      references:
+        - link: https://imslp.org/wiki/Fugue_in_G_minor,_BWV_578_(Bach,_Johann_Sebastian)
+          title: 'Fugue in G minor, BWV 578 (Bach, Johann Sebastian)'
+    - title: '*ニコニコ動画のジングル*'
+      description: '[ヴァイオリン演奏](yt:0fKOJlqCf04?t=1281)として'
+    - title: '[千本桜 feat.初音ミク](wiki:千本桜_(曲))'
+      attributes:
+        - name: '作詞・作曲'
+          text: '[黒うさP](wiki:WhiteFlame)'
+      description: '[ヴァイオリン演奏](yt:0fKOJlqCf04?t=1293)として'
+      videos:
+        - id: shs0rAiwsGQ
+          title: '「ＭＶ」　千本桜　WhiteFlame feat 初音ミク'
+
+- video:
     id: S-AnVxkUfZc
     type: live
     publishedAt: 2024/04/17 19:00

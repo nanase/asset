@@ -24,7 +24,10 @@
       references:
         - link: https://imslp.org/wiki/Fugue_in_G_minor,_BWV_578_(Bach,_Johann_Sebastian)
           title: 'Fugue in G minor, BWV 578 (Bach, Johann Sebastian)'
-    - title: '*ニコニコ動画のジングル*'
+    - title: '「[ニコニコ動画公式時報（時報）](https://dic.nicovideo.jp/a/%E3%83%8B%E3%82%B3%E3%83%8B%E3%82%B3%E5%89%B2%E3%82%8A%E8%BE%BC%E3%81%BF)」'
+      attributes:
+        - name: 作曲
+          text: '不明'
       description: '[ヴァイオリン演奏](yt:0fKOJlqCf04?t=1281)として'
     - title: '[千本桜 feat.初音ミク](wiki:千本桜_(曲))'
       attributes:

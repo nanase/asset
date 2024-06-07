@@ -1,4 +1,25 @@
 - video:
+    id: yvwKci43VlM
+    type: live
+    publishedAt: 2024/06/07 12:00
+  name: '【楽曲解説】梅雨到来！ロマンチックな雨音の旋律「雨だれ」【純喫茶ジェネット】'
+  shortname: '梅雨到来！ロマンチックな雨音の旋律「雨だれ」'
+  categories: ['純喫茶ジェネット', '楽曲解説']
+  tunes:
+  - title: '[24の前奏曲](wiki:前奏曲_(ショパン)) 作品28 第15番 変ニ長調「[雨だれ](wiki:前奏曲_(ショパン)#24の前奏曲作品28)」'
+    originalTitle: "24 Préludes, Op.28, 15. Sostenuto D-flat major, 'Raindrop'"
+    attributes:
+      - name: 作曲
+        text: '[フレデリック・ショパン](wiki:フレデリック・ショパン)'
+    references:
+      - link: https://imslp.org/wiki/Preludes,_Op.28_(Chopin,_Fr%C3%A9d%C3%A9ric)
+        title: "Preludes, Op.28 (Chopin, Frédéric)"
+    description: 'BGMとして、[ヴァイオリン演奏](yt:yvwKci43VlM?t=3127)として'
+    videos:
+      - id: tmXjrkdQatw
+        title: 'YUNDI - Chopin Prelude no.15 ‘Raindrop’, op.28'
+
+- video:
     id: 0fKOJlqCf04
     type: live
     publishedAt: 2024/04/25 12:00

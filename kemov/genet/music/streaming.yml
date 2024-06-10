@@ -1,4 +1,26 @@
 - video:
+    id: OfWwUajBdHs
+    type: live
+    publishedAt: 2024/06/10 12:00
+  name: '【雑談】ジェネットの友達探し！～アニマルガールとおしゃべりしませんかっ～＃22'
+  shortname: 'ジェネットの友達探し！～アニマルガールとおしゃべりしませんかっ～＃22'
+  categories: ['雑談配信', '縦型配信', 'ジェネットの友達探し']
+  tunes:
+    - title: '[情熱大陸](wiki:情熱大陸#テーマ音楽)'
+      attributes:
+        - name: 作曲
+          text: '[葉加瀬太郎](wiki:葉加瀬太郎)'
+      description: '[ヴァイオリン演奏](yt:OfWwUajBdHs?t=940)として'
+      videos:
+        - id: 53B3ZrhfnOA
+          title: '葉加瀬太郎 情熱大陸【OFFICIAL】'
+    - title: '[かたつむり](wiki:カタツムリ#かたつむり（唱歌）)（[尋常小学唱歌](wiki:尋常小学唱歌)）'
+      attributes:
+        - name: 作詞・作曲
+          text: '不明'
+      description: '[ヴァイオリン演奏](yt:OfWwUajBdHs?t=1620)として'
+
+- video:
     id: yvwKci43VlM
     type: live
     publishedAt: 2024/06/07 12:00

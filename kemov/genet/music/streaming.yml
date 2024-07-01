@@ -1,4 +1,83 @@
 - video:
+    id: y3EiBEiRZ3w
+    type: live
+    publishedAt: 2024/07/01 20:00
+  name: '【生演奏】7月です！夏の始まりです演奏会'
+  shortname: '7月です！夏の始まりです演奏会'
+  categories: ['純喫茶ジェネット', '演奏配信']
+  tunes:
+    - title: '[ハム太郎とっとこうた](wiki:ハム太郎とっとこうた)'
+      attributes:
+        - text: 'アニメ「[とっとこハム太郎](wiki:とっとこハム太郎_(アニメ))」オープニングテーマ'
+        - name: '作曲・作詞'
+          text: '[河井リツ子](wiki:河井リツ子)'
+        - name: '編曲'
+          text: '[岩﨑元是](wiki:岩崎元是)'
+      description: '[ヴァイオリン演奏](yt:y3EiBEiRZ3w?t=502)として'
+      videos:
+        - id: Lg96zmH7D7w
+          position: 5
+          title: '【アニメ】「ハム太郎とっとこうた」　（歌：ハムちゃんず）【公式】とっとこハム太郎のオープニングテーマ曲　その１'
+    - title: '[カブトムシ](wiki:カブトムシ_(aikoの曲))'
+      attributes:
+        - name: '作曲・作詞'
+          text: '[AIKO](wiki:aiko)'
+        - name: '編曲'
+          text: '[島田昌典](wiki:島田昌典)'
+      description: '[ヴァイオリン演奏](yt:y3EiBEiRZ3w?t=808)として'
+      videos:
+        - id: wp2U40KI63A
+          title: 'aiko- 『カブトムシ』music video'
+    - title: '[波乗りジョニー](wiki:波乗りジョニー)'
+      attributes:
+        - name: '作曲・作詞'
+          text: '[桑田佳祐](wiki:桑田佳祐)'
+        - name: '編曲'
+          text: '[桑田佳祐](wiki:桑田佳祐)、[山本拓夫](wiki:山本拓夫)、[島健](wiki:島健)'
+      description: '[ヴァイオリン演奏](yt:y3EiBEiRZ3w?t=1133)として'
+      videos:
+        - id: K0-Dm4wMJpQ
+          title: '桑田佳祐 – 波乗りジョニー（Full ver.）'
+    - title: '[Rain](wiki:Rain_(大江千里の曲)#秦基博によるカバー)'
+      attributes:
+        - text: '[秦基博](wiki:秦基博)による、[大江千里](wiki:大江千里_(アーティスト))の同名曲のカバー、アニメ映画「[言の葉の庭](wiki:言の葉の庭)」エンディングテーマ'
+        - name: '作曲・作詞'
+          text: '[大江千里](wiki:大江千里_(アーティスト))'
+      description: '[ヴァイオリン演奏](yt:y3EiBEiRZ3w?t=1636)として'
+    - title: '[涙そうそう](wiki:涙そうそう)'
+      attributes:
+        - text: '[森山良子](wiki:森山良子)と[BEGIN](wiki:BEGIN_(バンド))の楽曲、[夏川りみ](wiki:夏川りみ)の同名曲のカバー'
+        - name: '作曲'
+          text: '[BEGIN](wiki:BEGIN_(バンド))'
+        - name: '作詞'
+          text: '[森山良子](wiki:森山良子)'
+      description: '[ヴァイオリン演奏](yt:y3EiBEiRZ3w?t=2037)として'
+    - title: '[君の知らない物語](wiki:君の知らない物語)'
+      attributes:
+        - text: '[supercell](wiki:Supercell_(クリエイター集団))の楽曲、アニメ「[化物語](wiki:化物語)」エンディングテーマ'
+        - name: '作詞・作曲'
+          text: 'ryo'
+      description: '[ヴァイオリン演奏](yt:y3EiBEiRZ3w?t=2309)として'
+    - title: '[SUMMER SONG](wiki:SUMMER_SONG)'
+      attributes:
+        - name: '作詞・作曲'
+          text: '[YUI](wiki:YUI_(歌手))'
+        - name: '編曲'
+          text: '[northa+](wiki:鈴木Daichi秀行)'
+      description: '[歌唱](yt:y3EiBEiRZ3w?t=2850)として'
+    - title: '[高嶺の花子さん](wiki:高嶺の花子さん)'
+      attributes:
+        - text: '[back number](wiki:Back_number)の楽曲'
+        - name: '作詞・作曲'
+          text: '[清水依与吏](wiki:清水依与吏)'
+        - name: '編曲'
+          text: '[back number](wiki:Back_number)、[蔦谷好位置](wiki:蔦谷好位置)'
+      description: '[ヴァイオリン演奏、歌唱](yt:y3EiBEiRZ3w?t=3231)として'
+      videos:
+        - id: SII-S-zCg-c
+          title: 'back number - 高嶺の花子さん (full)'
+
+- video:
     id: OfWwUajBdHs
     type: live
     publishedAt: 2024/06/10 12:00

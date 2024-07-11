@@ -1,4 +1,25 @@
 - video:
+    id: gSmfyQDNcJw
+    type: live
+    publishedAt: 2024/07/11 12:00
+  name: '【楽曲解説】国を超えた愛と平和の物語！オペラ「イーゴリ公」より「韃靼人の踊り」【純喫茶ジェネット】'
+  shortname: '国を超えた愛と平和の物語！オペラ「イーゴリ公」より「韃靼人の踊り」'
+  categories: ['純喫茶ジェネット', '楽曲解説']
+  tunes:
+  - title: 'オペラ「[イーゴリ公](wiki:イーゴリ公)」第2幕より [韃靼人の踊り](wiki:韃靼人の踊り)'
+    originalTitle: 'Половецкие пляски / Polovtsian Dances'
+    attributes:
+      - name: 作曲
+        text: '[アレクサンドル・ボロディン](wiki:アレクサンドル・ボロディン)'
+    references:
+      - link: https://imslp.org/wiki/Prince_Igor_(Borodin,_Aleksandr)
+        title: "Prince Igor (Borodin, Aleksandr)"
+    description: 'BGMとして、[ヴァイオリン演奏](yt:gSmfyQDNcJw?t=3108)として'
+    videos:
+      - id: wiexn6O9To4
+        title: 'Borodin - Prince Igor: Polovtsian Dances, conducted by Andrzej Kucybała'
+
+- video:
     id: y3EiBEiRZ3w
     type: live
     publishedAt: 2024/07/01 20:00

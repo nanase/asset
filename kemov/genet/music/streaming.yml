@@ -1,4 +1,92 @@
 - video:
+    id: BTKmE0TJosw
+    type: live
+    publishedAt: 2024/09/08 19:00
+  name: '【生演奏】秋にはちょっとはやい？演奏会♪'
+  shortname: '秋にはちょっとはやい？演奏会♪'
+  categories: ['縦型配信', '演奏配信']
+  tunes:
+    - title: '[ハム太郎とっとこうた](wiki:ハム太郎とっとこうた)'
+      attributes:
+        - text: 'アニメ「[とっとこハム太郎](wiki:とっとこハム太郎_(アニメ))」オープニングテーマ'
+        - name: '作曲・作詞'
+          text: '[河井リツ子](wiki:河井リツ子)'
+        - name: '編曲'
+          text: '[岩﨑元是](wiki:岩崎元是)'
+      description: '[ヴァイオリン演奏](yt:BTKmE0TJosw?t=403)として'
+      videos:
+        - id: Lg96zmH7D7w
+          position: 5
+          title: '【アニメ】「ハム太郎とっとこうた」　（歌：ハムちゃんず）【公式】とっとこハム太郎のオープニングテーマ曲　その１'
+    - title: '[secret base〜君がくれたもの〜](wiki:Secret_base〜君がくれたもの〜)'
+      attributes:
+        - text: '[ZONE](wiki:ZONE_(バンド))の楽曲'
+        - name: '作曲・作詞'
+          text: '[町田紀彦](wiki:町田紀彦)'
+        - name: '編曲'
+          text: '[虎じろう](wiki:虎じろう)'
+      description: '[ヴァイオリン演奏](yt:BTKmE0TJosw?t=645)として'
+    - title: '[君の知らない物語](wiki:君の知らない物語)'
+      attributes:
+        - text: '[supercell](wiki:Supercell_(クリエイター集団))の楽曲、アニメ「[化物語](wiki:化物語)」エンディングテーマ'
+        - name: '作詞・作曲'
+          text: 'ryo'
+      description: '[ヴァイオリン演奏](yt:BTKmE0TJosw?t=975)として'
+    - title: '[サウダージ](wiki:サウダージ_(曲))'
+      attributes:
+        - text: '[ポルノグラフィティ](wiki:ポルノグラフィティ)の楽曲'
+        - name: '作曲・編曲'
+          text: '[ak.homma](wiki:本間昭光)'
+        - name: '作詞'
+          text: '[ハルイチ](wiki:新藤晴一)'
+      description: '[ヴァイオリン演奏](yt:BTKmE0TJosw?t=1502)として'
+    - title: '[One more time, One more chance](wiki:One_more_time,_One_more_chance)'
+      attributes:
+        - text: '[山崎まさよし](wiki:山崎まさよし)の楽曲'
+        - name: 作曲・作詞
+          text: '[山崎将義](wiki:山崎まさよし)'
+        - name: 編曲
+          text: '[森俊之](wiki:森俊之)'
+      description: '[ヴァイオリン演奏](yt:BTKmE0TJosw?t=2139)として'
+    - title: '[わたがし](wiki:わたがし_(back_numberの曲))'
+      attributes:
+        - text: '[back number](wiki:Back_number)の楽曲'
+        - name: 作曲・作詞
+          text: '[清水依与吏](wiki:清水依与吏)'
+        - name: 編曲
+          text: '[back number](wiki:Back_number)、[soundbreakers](wiki:Soundbreakers)'
+      description: '[ヴァイオリン演奏](yt:BTKmE0TJosw?t=2576)として'
+    - title: 'ヤマダ電機のテーマ'
+      attributes:
+        - name: 作曲
+          text: '[富田伊知郎](wiki:MoJo)'
+        - name: 作詞
+          text: '不明'
+      description: '[歌唱](yt:BTKmE0TJosw?t=3106)として'
+    - title: '[アイドル](wiki:アイドル_(曲))'
+      attributes:
+        - text: '[YOASOBI](wiki:YOASOBI)の楽曲、テレビアニメ「[【推しの子】](wiki:【推しの子】_(アニメ))」オープニングテーマ'
+        - name: 作曲・作詞・編曲
+          text: '[Ayase](wiki:Ayase)'
+      description: '[ヴァイオリン演奏](yt:BTKmE0TJosw?t=3467)として'
+    - title: '[女々しくて](wiki:女々しくて)'
+      attributes:
+        - text: '[ゴールデンボンバー](wiki:ゴールデンボンバー_(バンド))の楽曲'
+        - name: 作曲・作詞
+          text: '[鬼龍院翔](wiki:鬼龍院翔)'
+        - name: 編曲
+          text: '[鬼龍院翔](wiki:鬼龍院翔)、[tatsuo](wiki:tatsuo)'
+      description: '[ヴァイオリン演奏](yt:BTKmE0TJosw?t=3884)として'
+    - title: '[大声ダイヤモンド](wiki:大声ダイヤモンド)'
+      attributes:
+        - text: '[AKB48](wiki:AKB48)の楽曲'
+        - name: 作曲
+          text: '[井上ヨシマサ](wiki:井上ヨシマサ)'
+        - name: 作詞
+          text: '[秋元康](wiki:秋元康)'
+      description: '[歌唱](yt:BTKmE0TJosw?t=4430)として'
+
+- video:
     id: gSmfyQDNcJw
     type: live
     publishedAt: 2024/07/11 12:00

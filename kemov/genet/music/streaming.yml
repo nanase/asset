@@ -1,4 +1,49 @@
 - video:
+    id: 43DBxjN0sv4
+    type: live
+    publishedAt: 2024/10/30 12:00
+  name: '【おすすめクラシック紹介】ハロウィンにぴったり！身の毛もよだつクラシック曲特集【純喫茶ジェネット】'
+  shortname: 'ハロウィンにぴったり！身の毛もよだつクラシック曲特集'
+  categories: ['純喫茶ジェネット', '楽曲解説']
+  tunes:
+    - title: '[レクイエム](wiki:レクイエム_(ヴェルディ))より [怒りの日](wiki:レクイエム_(ヴェルディ)#Dies_Iræ（怒りの日）)'
+      originalTitle: "Messa da Requiem per l'anniversario della morte di Manzoni, 2. Sequence, Dies Iræ"
+      attributes:
+        - name: 作曲
+          text: '[ジュゼッペ・ヴェルディ](wiki:ジュゼッペ・ヴェルディ)'
+      references:
+        - link: https://imslp.org/wiki/Requiem_(Verdi,_Giuseppe)
+          title: "Requiem (Verdi, Giuseppe)"
+      description: '楽曲解説として'
+    - title: '[レクイエム ニ短調 K.626](wiki:レクイエム_(モーツァルト))より [怒りの日](wiki:レクイエム_(モーツァルト)#セクエンツィア【続唱】)'
+      originalTitle: "Requiem d-moll, K. 626, 3. Sequenz, 1. Dies Irae"
+      attributes:
+        - name: 作曲
+          text: '[ヴォルフガング・アマデウス・モーツァルト](wiki:ヴォルフガング・アマデウス・モーツァルト)'
+      references:
+        - link: https://imslp.org/wiki/Requiem_in_D_minor,_K.626_(Mozart,_Wolfgang_Amadeus)
+          title: "Requiem in D minor, K.626 (Mozart, Wolfgang Amadeus)"
+      description: '楽曲解説として'
+    - title: 'バレエ音楽「[ロメオとジュリエット](wiki:ロメオとジュリエット_(プロコフィエフ))」より [モンターギュー家とキャピュレット家](wiki:ロメオとジュリエット_(プロコフィエフ)#『ロメオとジュリエット』第2組曲_作品64ter)'
+      originalTitle: "Ромео и Джульетта, Op.64ter, Монтекки и Капулетти"
+      attributes:
+        - name: 作曲
+          text: '[セルゲイ・プロコフィエフ](wiki:セルゲイ・プロコフィエフ)'
+      references:
+        - link: https://imslp.org/wiki/Romeo_and_Juliet_(2nd_suite),_Op.64ter_(Prokofiev,_Sergey)
+          title: "Romeo and Juliet (2nd suite), Op.64ter (Prokofiev, Sergey)"
+      description: '楽曲解説、[ヴァイオリン演奏](yt:43DBxjN0sv4?t=3325)として'
+    - title: '[ペール・ギュント](wiki:ペール・ギュント_(グリーグ)) 作品46 第1組曲 第4曲 [山の魔王の宮殿にて](wiki:ペール・ギュント_(グリーグ)#第1組曲_作品46)'
+      originalTitle: 'Peer Gynt Suite No.1, Op.46, IV. In the Hall of the Mountain King. Alla marcia e molto marcato'
+      attributes:
+        - name: 作曲
+          text: '[エドヴァルド・グリーグ](wiki:エドヴァルド・グリーグ)'
+      description: '楽曲解説、[ヴァイオリン演奏](yt:43DBxjN0sv4?t=3360)として'
+      references:
+        - link: https://imslp.org/wiki/Peer_Gynt_Suite_No.1,_Op.46_(Grieg,_Edvard)
+          title: 'Peer Gynt Suite No.1, Op.46 (Grieg, Edvard)'
+
+- video:
     id: ZW_Bw9iF4ek
     type: live
     publishedAt: 2024/10/01 21:30

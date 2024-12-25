@@ -1,4 +1,95 @@
 - video:
+    id: CyH498udQjI
+    type: live
+    publishedAt: 2024/12/25 19:00
+  name: '【生演奏】【歌枠】クリスマスコンサートっ🎄'
+  shortname: 'クリスマスコンサートっ🎄'
+  categories: ['演奏配信', '歌枠配信']
+  tunes:
+    - title: '[恋人たちのクリスマス](wiki:恋人たちのクリスマス)'
+      originalTitle: 'All I Want for Christmas Is You'
+      attributes:
+        - name: 作詞・作曲
+          text: '[マライア・キャリー](wiki:マライア・キャリー)、[ウォルター・アファナシェフ](wiki:ウォルター・アファナシェフ)'
+      description: '[ヴァイオリン演奏](yt:CyH498udQjI?t=621)として'
+    - title: 'あわてんぼうのサンタクロース'
+      attributes:
+        - name: 作詞
+          text: '[吉岡治](wiki:吉岡治)'
+        - name: 作曲・編曲
+          text: '[小林亜星](wiki:小林亜星)'
+      description: '[歌唱およびヴァイオリン演奏](yt:CyH498udQjI?t=1270)として'
+    - title: '[白い恋人達](wiki:白い恋人達)'
+      attributes:
+        - name: 作詞・作曲・編曲
+          text: '[桑田佳祐](wiki:桑田佳祐)'
+        - name: 弦管編曲
+          text: '[島健](wiki:島健)'
+      description: '[ヴァイオリン演奏](yt:CyH498udQjI?t=1617)として'
+    - title: '[メリクリ](wiki:メリクリ)'
+      attributes:
+        - text: '[BoA](wiki:BoA)の楽曲'
+        - name: 作詞
+          text: '[康珍化](wiki:康珍化)'
+        - name: 作曲・編曲
+          text: '[原一博](wiki:原一博)'
+      description: '[ヴァイオリン演奏](yt:CyH498udQjI?t=1909)として'
+    - title: '[星に願いを](wiki:星に願いを)'
+      originalTitle: 'When You Wish upon a Star'
+      attributes:
+        - name: 作曲
+          text: '[リー・ハーライン](wiki:リー・ハーライン)'
+        - name: 作詞
+          text: '[ネッド・ワシントン](wikien:Ned_Washington)'
+      description: 'ヴァイオリン演奏（[原曲](yt:CyH498udQjI?t=2424)、[ジャズアレンジ](yt:CyH498udQjI?t=2520)）として'
+    - title: '[クリスマスソング](wiki:クリスマスソング_(back_numberの曲))'
+      attributes:
+        - text: '[back number](wiki:Back_number)の楽曲'
+        - name: 作詞・作曲
+          text: '[清水依与吏](wiki:清水依与吏)'
+        - name: 編曲
+          text: '[back number](wiki:Back_number)、[小林武史](wiki:小林武史)'
+      description: '[歌唱](yt:CyH498udQjI?t=3020)として'
+      videos:
+        - id: 7zBeQezaz4U
+          title: 'back number - クリスマスソング (full)'
+    - title: '[赤鼻のトナカイ](wiki:赤鼻のトナカイ)'
+      originalTitle: 'Rudolph the Red-Nosed Reindeer'
+      attributes:
+        - name: 作詞・作曲
+          text: '[ジョニー・マークス](wiki:ジョニー・マークス)'
+      description: '[ヴァイオリン演奏](yt:CyH498udQjI?t=3514)として'
+    - title: '[オールド・ラング・サイン](wiki:オールド・ラング・サイン)'
+      originalTitle: 'Auld Lang Syne'
+      attributes:
+        - name: 作曲
+          text: '不明'
+        - name: 作詞
+          text: '[ロバート・バーンズ](wiki:ロバート・バーンズ)'
+      references:
+        - link: https://imslp.org/wiki/Auld_lang_syne_(Folk_Songs%2C_Scottish)
+          title: 'Auld lang syne (Folk Songs, Scottish)'
+      description: '[ヴァイオリン演奏](yt:CyH498udQjI?t=4196)として'
+
+- video:
+    id: digcmxVdHpQ
+    type: live
+    publishedAt: 2024/12/05 12:00
+  name: '【楽曲解説】人生とは…山あり谷あり…グリーグ「ペールギュント」のお話【純喫茶ジェネット】'
+  shortname: '人生とは…山あり谷あり…グリーグ「ペールギュント」のお話'
+  categories: ['楽曲解説', '純喫茶ジェネット']
+  tunes:
+    - title: '[ペール・ギュント](wiki:ペール・ギュント_(グリーグ)) 作品46 第1組曲 第1曲 [朝](wiki:ペール・ギュント_(グリーグ)#第1組曲_作品46)'
+      originalTitle: 'Peer Gynt Suite No.1, Op.46, I. Morning Mood. Allegretto pastorale'
+      attributes:
+        - name: 作曲
+          text: '[エドヴァルド・グリーグ](wiki:エドヴァルド・グリーグ)'
+      description: '[ヴァイオリン演奏](yt:digcmxVdHpQ?t=4287)として'
+      references:
+        - link: https://imslp.org/wiki/Peer_Gynt_Suite_No.1,_Op.46_(Grieg,_Edvard)
+          title: 'Peer Gynt Suite No.1, Op.46 (Grieg, Edvard)'
+
+- video:
     id: 43DBxjN0sv4
     type: live
     publishedAt: 2024/10/30 12:00

@@ -1,4 +1,22 @@
 - video:
+    id: 2inwbKzzknU
+    type: live
+    publishedAt: 2024/12/30 23:30
+  name: '【雑談】年越し「イブ」配信！一緒に巳年「イブ」をむかえよう！'
+  shortname: '年越し「イブ」配信！一緒に巳年「イブ」をむかえよう！'
+  categories: ['雑談配信']
+  tunes:
+    - title: '[交響曲第9番「合唱付き」](wiki:交響曲第9番_(ベートーヴェン)) 第4楽章「[歓喜の歌](wiki:歓喜の歌)」'
+      originalTitle: 'Sinfonie Nr. 9 D-moll, op. 125, An die Freude / Ode to Joy'
+      attributes:
+        - name: 作曲
+          text: '[ルードヴィッヒ・ヴァン・ベートーヴェン](wiki:ルートヴィヒ・ヴァン・ベートーヴェン)'
+      description: '[ヴァイオリン演奏](yt:2inwbKzzknU?t=1380)として'
+      references:
+        - link: https://imslp.org/wiki/Symphony_No.9%2C_Op.125_%28Beethoven%2C_Ludwig_van%29
+          title: 'Symphony No.9, Op.125 (Beethoven, Ludwig van)'
+
+- video:
     id: CyH498udQjI
     type: live
     publishedAt: 2024/12/25 19:00

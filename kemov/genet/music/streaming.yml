@@ -1,4 +1,18 @@
 - video:
+    id: zK4L6XQXDIg
+    type: live
+    publishedAt: 2025/01/06 19:00
+  name: '【縦型雑談】作業用に！１時間エンドレス「春の海」生演奏！'
+  shortname: '作業用に！１時間エンドレス「春の海」生演奏！'
+  categories: ['演奏配信', '縦型配信']
+  tunes:
+    - title: '[春の海](wiki:春の海)'
+      attributes:
+        - name: 作曲
+          text: '[宮城道雄](wiki:宮城道雄)'
+      description: '全70回の[ヴァイオリン演奏](yt:zK4L6XQXDIg?t=164)として'
+
+- video:
     id: 2inwbKzzknU
     type: live
     publishedAt: 2024/12/30 23:30

@@ -1,4 +1,89 @@
 - video:
+    id: G0B5Fs4xNbU
+    type: live
+    publishedAt: 2025/02/01 19:00
+  name: '【歌枠】毎月１日はジェネット記念日！～かわいいは、とりもどせる～'
+  shortname: '毎月１日はジェネット記念日！～かわいいは、とりもどせる～'
+  categories: ['記念配信', '歌枠配信']
+  tunes:
+    - title: '[ぼくドラえもん](wiki:ぼくドラえもん)'
+      attributes:
+        - name: 作詞
+          text: '[藤子不二雄](wiki:藤子不二雄)'
+        - name: 作曲・編曲
+          text: '[菊池俊輔](wiki:菊池俊輔)'
+      description: '[歌唱](yt:G0B5Fs4xNbU?t=570)として'
+      videos:
+        - id: Nt7a5dM5Fnk
+          title: 'ぼくドラえもん'
+    - title: '[可愛くてごめん](wiki:可愛くてごめん)'
+      attributes:
+        - name: 作詞・作曲
+          text: 'shito'
+        - name: 編曲
+          text: 'HoneyWorks'
+      description: '[歌唱](yt:G0B5Fs4xNbU?t=866)として'
+      videos:
+        - id: a3FgmTfvJhA
+          title: '可愛くてごめん (feat. かぴ)／HoneyWorks'
+    - title: '[それは僕たちの奇跡](wiki:それは僕たちの奇跡)'
+      attributes:
+        - text: "[μ's](wiki:Μ%27s)の楽曲"
+        - name: 作詞
+          text: '[畑亜貴](wiki:畑亜貴)'
+        - name: 作曲
+          text: '[黒須克彦](wiki:黒須克彦)'
+      description: '[歌唱](yt:G0B5Fs4xNbU?t=1340)として'
+    - title: 'わたしの一番かわいいところ'
+      attributes:
+        - text: '[FRUITS ZIPPER](wiki:FRUITS_ZIPPER)の楽曲'
+        - name: 作詞・作曲・編曲
+          text: '[ヤマモトショウ](wiki:ヤマモトショウ)'
+      description: '[歌唱](yt:G0B5Fs4xNbU?t=1875)として'
+    - title: '[ハレ晴レユカイ](wiki:ハレ晴レユカイ)'
+      attributes:
+        - text: 'テレビアニメ「[涼宮ハルヒの憂鬱](wiki:涼宮ハルヒの憂鬱_(アニメ))」エンディングテーマ'
+        - name: 作詞
+          text: '[畑亜貴](wiki:畑亜貴)'
+        - name: 作曲
+          text: '[田代智一](wiki:田代智一)'
+        - name: 編曲
+          text: '[安藤高弘](wiki:安藤高弘)'
+      description: '[歌唱](yt:G0B5Fs4xNbU?t=2358)として'
+    - title: '[猫](wiki:猫_(DISH//の曲))'
+      attributes:
+        - text: '[DISH//](wiki:DISH//)の楽曲'
+        - name: 作詞・作曲
+          text: '[あいみょん](wiki:あいみょん)'
+        - name: 編曲
+          text: '[トオミヨウ](wiki:トオミヨウ)'
+      description: '[歌唱](yt:G0B5Fs4xNbU?t=2745)として'
+    - title: '[キラーチューン](wiki:キラーチューン)'
+      attributes:
+        - text: '[東京事変](wiki:東京事変)の楽曲'
+        - name: 作詞
+          text: '[椎名林檎](wiki:椎名林檎)'
+        - name: 作曲
+          text: '[伊澤一葉](wiki:伊澤一葉)'
+        - name: 編曲
+          text: '[東京事変](wiki:東京事変)'
+      description: '[歌唱](yt:G0B5Fs4xNbU?t=3228)として'
+    - title: 'かわいいだけじゃだめですか？'
+      attributes:
+        - text: '[CUTIE STREET](wiki:CUTIE_STREET)の楽曲'
+        - name: 作詞
+          text: '‎早川博隆'
+        - name: 作曲・編曲
+          text: '早川博隆、[渡邉俊彦](wiki:渡邉俊彦)'
+      description: '[歌唱](yt:G0B5Fs4xNbU?t=3470)として'
+    - title: '[うっせぇわ](wiki:うっせぇわ)'
+      attributes:
+        - text: '[Ado](wiki:Ado)の楽曲'
+        - name: 作詞・作曲
+          text: '[syudou](wiki:Syudou)'
+      description: '[歌唱](yt:G0B5Fs4xNbU?t=3976)として'
+
+- video:
     id: zK4L6XQXDIg
     type: live
     publishedAt: 2025/01/06 19:00
@@ -4198,7 +4283,7 @@
       description: '[ヴァイオリン演奏](https://www.tiktok.com/@genet_kemov/video/7176927368139869442)として'
       videos:
         - id: a3FgmTfvJhA
-          title: '愛くてごめん (feat. かぴ)／HoneyWorks'
+          title: '可愛くてごめん (feat. かぴ)／HoneyWorks'
 
 - video:
     id: qe95eC55pe0
